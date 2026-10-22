@@ -1,8 +1,5 @@
 # Topic 2 — Best Foods for Weight Loss
 
-> For a one-food-per-reel version of the belly fat list, see
-> [07-belly-fat-foods-series.md](07-belly-fat-foods-series.md).
-
 ---
 
 ## Script 2.1 — "5 belly fat foods" (~23s)

@@ -13,13 +13,12 @@ Ready-to-shoot scripts for short fitness/food reels. Every script runs
 | 4 | Best bulking (diet + plan) | [scripts/04-bulking.md](scripts/04-bulking.md) | 3 |
 | 5 | Best cutting (diet + plan) | [scripts/05-cutting.md](scripts/05-cutting.md) | 3 |
 | 6 | Fitness tips | [scripts/06-fitness-tips.md](scripts/06-fitness-tips.md) | 3 |
-| 7 | Belly fat foods — 5-part series (1 food per reel) | [scripts/07-belly-fat-foods-series.md](scripts/07-belly-fat-foods-series.md) | 5 |
 
 ## Tenglish versions
 
-Every script above is also available in **Tenglish** (Telugu written in English
-letters) in [scripts/tenglish/](scripts/tenglish/), same file names. Voiceover
-and captions are Tenglish; on-screen text stays in short English so it reads fast.
+All 18 scripts in **Tenglish** (Telugu written in English letters) are in one
+file: [TENGLISH-ALL-SCRIPTS.md](TENGLISH-ALL-SCRIPTS.md). Voiceover and captions
+are Tenglish; on-screen text stays in short English so it reads fast.
 
 ## Script format
 
