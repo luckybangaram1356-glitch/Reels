@@ -2,84 +2,93 @@
 
 ---
 
-## Script 4.1 — "Clean bulk vs dirty bulk"
+## Script 4.1 — "Clean vs dirty bulk" (~21s)
 
-**Length:** ~25s
+**0–3s · Hook**
+🗣️ "Clean bulk or dirty bulk? Which builds muscle?"
+🎥 Split: pizza & burger vs rice, chicken, eggs · 📝 CLEAN vs DIRTY 🤔
 
-**Hook (0–3s)**
-🎥 Split screen: pizza & burger vs rice, chicken, eggs
-🗣️ "Dirty bulk or clean bulk — which one actually builds muscle?"
-📝 CLEAN vs DIRTY BULK 🤔
+**3–7s**
+🗣️ "Dirty bulk: eat anything. Fast gain, mostly fat."
+🎥 Junk food pile · 📝 ❌ DIRTY = MORE FAT
 
-**Body**
-1. 🗣️ "Dirty bulk: eat anything. You gain fast — but most of it is fat."
-   🎥 Junk food pile · 📝 ❌ DIRTY = MORE FAT
-2. 🗣️ "Clean bulk: a small surplus, around 250 to 500 calories over maintenance."
-   🎥 Calorie app · 📝 ✅ +250–500 KCAL / DAY
-3. 🗣️ "Mostly whole foods — rice, oats, eggs, chicken, paneer, milk."
-   🎥 Meal prep boxes · 📝 WHOLE FOODS 🍚🥚🍗
-4. 🗣️ "Aim for slow gain — about 0.25 to 0.5 kg per week."
-   🎥 Weighing scale · 📝 0.25–0.5 KG / WEEK
+**7–11s**
+🗣️ "Clean bulk: 250 to 500 calories over maintenance."
+🎥 Calorie app · 📝 ✅ +250–500 KCAL / DAY
 
-**CTA (last 3s)**
-🗣️ "Follow for my full bulking meal plan."
+**11–14s**
+🗣️ "Mostly whole foods."
+🎥 Meal prep boxes · 📝 🍚🥚🍗 WHOLE FOODS
+
+**14–18s**
+🗣️ "Gain 0.25 to 0.5 kg per week."
+🎥 Weighing scale · 📝 0.25–0.5 KG / WEEK
+
+**18–21s · CTA**
+🗣️ "Follow for my bulking meal plan."
 📝 FOLLOW FOR PART 2 🔔
 
 **Caption:** Bulk smart, not dirty. More muscle, less fat to cut later 💪
-**Hashtags:** #cleanbulk #bulking #musclegain #bulkingseason #gymdiet #fitness #bodybuilding
+**Hashtags:** #cleanbulk #bulking #musclegain #gymdiet #bodybuilding
 
 ---
 
-## Script 4.2 — "Full day of eating — bulking (Indian)"
+## Script 4.2 — "Full day of eating: bulk" (~24s)
 
-**Length:** ~35s
+**0–3s · Hook**
+🗣️ "Full day of eating. Clean bulk, 3000 calories."
+🎥 Fast montage of meals · 📝 FULL DAY ~3000 KCAL 🍽️
 
-**Hook (0–3s)**
-🎥 Fast montage of all meals
-🗣️ "Here's a full day of eating for a clean bulk — about 3,000 calories."
-📝 FULL DAY OF EATING 🍽️ ~3000 KCAL
+**3–7s**
+🗣️ "Breakfast: oats, milk, banana, peanut butter, 3 eggs."
+🎥 Breakfast · 📝 🌅 OATS + 3 EGGS
 
-**Body**
-1. 🗣️ "Breakfast: oats with milk, banana, and peanut butter, plus 3 eggs."
-   🎥 Breakfast plate · 📝 🌅 OATS + 3 EGGS
-2. 🗣️ "Lunch: rice, dal, chicken or paneer curry, and salad."
-   🎥 Lunch thali · 📝 ☀️ RICE + DAL + PROTEIN
-3. 🗣️ "Pre-workout: banana and black coffee."
-   🎥 Banana + coffee · 📝 ⚡ BANANA + COFFEE
-4. 🗣️ "Post-workout: weight gain shake or milk with whey."
-   🎥 Shaker bottle · 📝 🥤 SHAKE
-5. 🗣️ "Dinner: rotis, egg bhurji or soya chunks curry, and curd."
-   🎥 Dinner plate · 📝 🌙 ROTI + PROTEIN + CURD
+**7–11s**
+🗣️ "Lunch: rice, dal, chicken or paneer, salad."
+🎥 Lunch thali · 📝 ☀️ RICE + DAL + PROTEIN
 
-**CTA (last 3s)**
-🗣️ "Adjust portions to your body weight. Save this plan!"
+**11–14s**
+🗣️ "Pre-workout: banana and black coffee."
+🎥 Banana + coffee · 📝 ⚡ PRE-WORKOUT
+
+**14–17s**
+🗣️ "Post-workout: whey with milk."
+🎥 Shaker · 📝 🥤 POST-WORKOUT
+
+**17–21s**
+🗣️ "Dinner: rotis, soya curry or egg bhurji, curd."
+🎥 Dinner plate · 📝 🌙 ROTI + PROTEIN + CURD
+
+**21–24s · CTA**
+🗣️ "Adjust portions to your weight. Save this!"
 📝 SAVE THIS PLAN 📌
 
-**Caption:** Simple Indian bulking diet — no fancy food needed 🇮🇳💪 Aim for 1.6–2 g protein per kg bodyweight.
-**Hashtags:** #fulldayofeating #bulkingdiet #indianbulkingdiet #musclegain #gymdiet #highprotein
+**Caption:** Simple Indian bulking diet 🇮🇳💪 Aim for 1.6–2 g protein per kg bodyweight.
+**Hashtags:** #fulldayofeating #bulkingdiet #indianbulkingdiet #musclegain #highprotein
 
 ---
 
-## Script 4.3 — "3 bulking mistakes"
+## Script 4.3 — "3 bulking mistakes" (~19s)
 
-**Length:** ~25s
+**0–3s · Hook**
+🗣️ "Bulking but only getting fat? 3 mistakes."
+🎥 Belly in mirror, confused · 📝 3 BULKING MISTAKES ❌
 
-**Hook (0–3s)**
-🎥 Guy with belly in a mirror, confused
-🗣️ "You're bulking but only getting fat? You're making these 3 mistakes."
-📝 3 BULKING MISTAKES ❌
+**3–7s**
+🗣️ "One: too big a surplus. Extra turns to fat."
+🎥 Overloaded plate · 📝 1️⃣ TOO MANY CALORIES
 
-**Body**
-1. 🗣️ "Mistake 1: too big a surplus. Extra calories turn into fat, not more muscle."
-   🎥 Overloaded plate · 📝 ❌ TOO MANY CALORIES
-2. 🗣️ "Mistake 2: low protein. Hit at least 1.6 grams per kg body weight."
-   🎥 Protein foods · 📝 ❌ LOW PROTEIN
-3. 🗣️ "Mistake 3: no progressive overload. Add weight or reps every week."
-   🎥 Adding plates to barbell · 📝 ❌ SAME WEIGHTS EVERY WEEK
+**7–11s**
+🗣️ "Two: low protein. Get 1.6 grams per kg."
+🎥 Protein foods · 📝 2️⃣ LOW PROTEIN
 
-**CTA (last 3s)**
-🗣️ "Fix these and your bulk will finally work. Follow for more."
+**11–15s**
+🗣️ "Three: same weights every week. Add weight or reps."
+🎥 Adding plates · 📝 3️⃣ NO PROGRESSIVE OVERLOAD
+
+**15–19s · CTA**
+🗣️ "Fix these. Follow for more."
 📝 FOLLOW 💪
 
-**Caption:** Bulking ≠ eating everything. Fix these 3 mistakes 🔧
-**Hashtags:** #bulkingmistakes #bulking #gymtips #progressiveoverload #musclebuilding #fitnesstips
+**Caption:** Bulking ≠ eating everything. Fix these 3 🔧
+**Hashtags:** #bulkingmistakes #bulking #gymtips #progressiveoverload #musclebuilding

@@ -1,6 +1,7 @@
 # Reels — Fitness & Food Scripts
 
-Ready-to-shoot scripts for short fitness/food reels (15–40s, vertical 9:16).
+Ready-to-shoot scripts for short fitness/food reels. Every script runs
+20–25s or less (vertical 9:16), with a timestamp on each line.
 
 ## Topics
 
@@ -12,13 +13,15 @@ Ready-to-shoot scripts for short fitness/food reels (15–40s, vertical 9:16).
 | 4 | Best bulking (diet + plan) | [scripts/04-bulking.md](scripts/04-bulking.md) | 3 |
 | 5 | Best cutting (diet + plan) | [scripts/05-cutting.md](scripts/05-cutting.md) | 3 |
 | 6 | Fitness tips | [scripts/06-fitness-tips.md](scripts/06-fitness-tips.md) | 3 |
+| 7 | Belly fat foods — 5-part series (1 food per reel) | [scripts/07-belly-fat-foods-series.md](scripts/07-belly-fat-foods-series.md) | 5 |
 
 ## Script format
 
 Every script follows the same structure:
 
 - **Hook (0–3s)** — the line that stops the scroll. Say it fast, show the food/result immediately.
-- **Body** — one short line per cut (2–4s each). `🎥` = what to show, `📝` = on-screen text.
+- **Body** — one short line per cut (2–4s each). `🗣️` = voiceover, `🎥` = what to show, `📝` = on-screen text.
+  Timestamps assume a normal speaking pace (~2.5 words/sec).
 - **CTA (last 3s)** — follow / save / comment prompt.
 - **Caption + hashtags** — paste-ready.
 

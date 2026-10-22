@@ -2,88 +2,105 @@
 
 ---
 
-## Script 3.1 — "Skinny? Eat these 5 foods"
+## Script 3.1 — "Skinny? Eat these 5" (~22s)
 
-**Length:** ~30s
+**0–3s · Hook**
+🗣️ "Skinny and can't gain weight? Add these 5 foods."
+🎥 Skinny arm flex → food spread · 📝 SKINNY? EAT THIS 💪
 
-**Hook (0–3s)**
-🎥 Skinny arm flex → cut to food spread
-🗣️ "Too skinny and can't gain weight? Add these 5 foods."
-📝 SKINNY? EAT THIS 💪
+**3–6s**
+🗣️ "Peanut butter. 2 spoons, almost 200 calories."
+🎥 Scooping PB · 📝 🥜 2 TBSP ≈ 190 KCAL
 
-**Body**
-1. 🗣️ "Peanut butter — 2 spoons is almost 200 calories."
-   🎥 Scooping peanut butter · 📝 🥜 2 TBSP ≈ 190 KCAL
-2. 🗣️ "Bananas — cheap, easy calories."
-   🎥 Bunch of bananas · 📝 🍌 EASY CALORIES
-3. 🗣️ "Full cream milk — calories plus protein in one glass."
-   🎥 Pouring milk · 📝 🥛 PROTEIN + CALORIES
-4. 🗣️ "Rice — easy to eat in big portions."
-   🎥 Plate of rice · 📝 🍚 EASY BIG PORTIONS
-5. 🗣️ "Dry fruits — dates, raisins, cashews. Small size, big calories."
-   🎥 Handful of dry fruits · 📝 🌰 CALORIE DENSE
+**6–9s**
+🗣️ "Bananas. Cheap, easy calories."
+🎥 Bunch of bananas · 📝 🍌 EASY CALORIES
 
-**CTA (last 3s)**
-🗣️ "Follow — tomorrow I'll show you a 900-calorie weight gain shake."
+**9–12s**
+🗣️ "Full cream milk. Calories plus protein."
+🎥 Pouring milk · 📝 🥛 PROTEIN + CALORIES
+
+**12–15s**
+🗣️ "Rice. Easy to eat big portions."
+🎥 Plate of rice · 📝 🍚 BIG PORTIONS
+
+**15–18s**
+🗣️ "Dry fruits. Small size, big calories."
+🎥 Dry fruits · 📝 🌰 CALORIE DENSE
+
+**18–22s · CTA**
+🗣️ "Follow. 900-calorie shake recipe tomorrow."
 📝 PART 2 TOMORROW 🔔
 
-**Caption:** Gaining weight is about eating MORE calories than you burn. These make it easy 💯
-**Hashtags:** #weightgain #skinnytomuscle #weightgainfoods #hardgainer #gainweight #bulking #fitness
+**Caption:** Gaining weight = eating MORE than you burn. These make it easy 💯
+**Hashtags:** #weightgain #skinnytomuscle #hardgainer #gainweight #bulking
 
 ---
 
-## Script 3.2 — "900-calorie weight gain shake at home"
+## Script 3.2 — "900-calorie homemade shake" (~21s)
 
-**Length:** ~30s
+**0–3s · Hook**
+🗣️ "No mass gainer needed. This shake is 900 calories."
+🎥 Blender ready · 📝 900+ KCAL SHAKE 🥤
 
-**Hook (0–3s)**
-🎥 Blender filled, about to blend
-🗣️ "No mass gainer needed. This homemade shake has about 900 calories."
-📝 900 KCAL SHAKE 🥤
+**3–5s**
+🗣️ "500 ml full cream milk."
+🎥 Pour milk · 📝 🥛 500 ml MILK
 
-**Body**
-1. 🗣️ "500 ml full cream milk."
-   🎥 Pour milk · 📝 🥛 500 ml MILK
-2. 🗣️ "2 bananas."
-   🎥 Drop bananas · 📝 🍌 2 BANANAS
-3. 🗣️ "Half a cup of oats."
-   🎥 Add oats · 📝 🥣 50g OATS
-4. 🗣️ "2 spoons peanut butter."
-   🎥 Add peanut butter · 📝 🥜 2 TBSP PEANUT BUTTER
-5. 🗣️ "4 dates for sweetness. Blend it."
-   🎥 Add dates, blend, pour into glass · 📝 ≈ 900 KCAL · ≈ 30g PROTEIN
+**5–7s**
+🗣️ "2 bananas."
+🎥 Drop bananas · 📝 🍌 2 BANANAS
 
-**CTA (last 3s)**
-🗣️ "Drink this daily with your meals and track your weight. Save it!"
+**7–9s**
+🗣️ "Half cup oats."
+🎥 Add oats · 📝 🥣 50g OATS
+
+**9–11s**
+🗣️ "2 spoons peanut butter."
+🎥 Add PB · 📝 🥜 2 TBSP PB
+
+**11–13s**
+🗣️ "4 dates."
+🎥 Add dates · 📝 🌴 4 DATES
+
+**13–17s**
+🗣️ "Blend. 900-plus calories, 30 grams protein."
+🎥 Blend + pour · 📝 900+ KCAL · ~30g PROTEIN
+
+**17–21s · CTA**
+🗣️ "Drink it between meals. Save this!"
 📝 SAVE THIS RECIPE 📌
 
-**Caption:** Homemade mass gainer for under ₹50 🔥 Drink it between meals, not instead of them.
-**Hashtags:** #weightgainshake #massgainer #homemadeshake #bulkingdiet #weightgain #proteinshake
+**Caption:** Homemade mass gainer for under ₹50 🔥 Between meals, not instead of them.
+**Hashtags:** #weightgainshake #massgainer #homemadeshake #bulkingdiet #weightgain
 
 ---
 
-## Script 3.3 — "Why you're NOT gaining weight"
+## Script 3.3 — "Why you're not gaining" (~22s)
 
-**Length:** ~25s
+**0–3s · Hook**
+🗣️ "Eating a lot but not gaining weight? Here's why."
+🎥 Frustrated on weighing scale · 📝 NOT GAINING? 😩
 
-**Hook (0–3s)**
-🎥 Person on weighing scale, frustrated
-🗣️ "Eating a lot but still not gaining weight? Here's the truth."
-📝 NOT GAINING? 😩
+**3–7s**
+🗣️ "One: you don't track calories."
+🎥 Calorie app · 📝 1️⃣ TRACK CALORIES 📱
 
-**Body**
-1. 🗣️ "You think you eat a lot — but you don't track it."
-   🎥 Calorie app on phone · 📝 TRACK YOUR CALORIES 📱
-2. 🗣️ "You skip meals. Eat 4 to 5 times a day."
-   🎥 Clock + meals · 📝 4–5 MEALS / DAY
-3. 🗣️ "You don't lift weights — so the weight you gain isn't muscle."
-   🎥 Lifting dumbbells · 📝 LIFT WEIGHTS 🏋️
-4. 🗣️ "You sleep 5 hours. Muscle grows when you sleep."
-   🎥 Sleeping · 📝 SLEEP 7–8 HRS 😴
+**7–11s**
+🗣️ "Two: you skip meals. Eat 4 to 5 times a day."
+🎥 Clock + meals · 📝 2️⃣ 4–5 MEALS / DAY
 
-**CTA (last 3s)**
-🗣️ "Which mistake are you making? Comment the number."
-📝 COMMENT 1, 2, 3 OR 4 👇
+**11–15s**
+🗣️ "Three: you don't lift, so it's not muscle."
+🎥 Lifting dumbbells · 📝 3️⃣ LIFT WEIGHTS 🏋️
+
+**15–18s**
+🗣️ "Four: you sleep 5 hours. Get 7 to 8."
+🎥 Sleeping · 📝 4️⃣ SLEEP 7–8 HRS 😴
+
+**18–22s · CTA**
+🗣️ "Which mistake is yours? Comment the number."
+📝 COMMENT 1–4 👇
 
 **Caption:** Fix these 4 and the scale WILL move 📈
-**Hashtags:** #hardgainer #weightgaintips #skinnyguy #bulkingtips #musclegain #gymtips
+**Hashtags:** #hardgainer #weightgaintips #skinnyguy #bulkingtips #musclegain
