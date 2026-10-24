@@ -2,7 +2,7 @@
 
 ---
 
-## Script 6.1 — "5 gym tips I wish I knew" (~22s)
+## Script 6.1 — "5 gym tips I wish I knew" (~23s)
 
 **0–3s · Hook**
 🗣️ "5 gym tips I wish I knew on day one."
@@ -28,16 +28,16 @@
 🗣️ "Consistency beats motivation."
 🎥 Early-morning gym entry · 📝 5️⃣ CONSISTENCY > MOTIVATION
 
-**19–22s · CTA**
-🗣️ "Send this to your gym partner."
-📝 SEND TO YOUR GYM BRO 📤
+**19–23s · CTA**
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Would've saved me a year of slow progress 😅
 **Hashtags:** #gymtips #fitnesstips #beginnergym #gymmotivation #consistency
 
 ---
 
-## Script 6.2 — "Beginner 3-day plan" (~22s)
+## Script 6.2 — "Beginner 3-day plan" (~23s)
 
 **0–3s · Hook**
 🗣️ "New to the gym? Follow this 3-day plan."
@@ -59,16 +59,16 @@
 🗣️ "3 sets of 8 to 12. Rest a day between."
 🎥 Writing in notebook · 📝 3 × 8–12 REPS
 
-**19–22s · CTA**
-🗣️ "Save this. Start Monday."
-📝 SAVE & START MONDAY 📌
+**19–23s · CTA**
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Simple beats complicated. Do this for 3 months 🙌
 **Hashtags:** #beginnerworkout #gymbeginner #pushpulllegs #workoutplan #gymtips
 
 ---
 
-## Script 6.3 — "4 morning habits" (~19s)
+## Script 6.3 — "4 morning habits" (~20s)
 
 **0–3s · Hook**
 🗣️ "4 morning habits that change your fitness."
@@ -90,9 +90,9 @@
 🗣️ "Protein breakfast, not just tea and biscuits."
 🎥 Eggs / paneer bhurji · 📝 🍳 PROTEIN BREAKFAST
 
-**16–19s · CTA**
-🗣️ "Try it for 7 days."
-📝 7-DAY CHALLENGE 💯
+**16–20s · CTA**
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Win the morning, win the day ☀️
 **Hashtags:** #morningroutine #healthyhabits #fitnesstips #dailyhabits #fitness

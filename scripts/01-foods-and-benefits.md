@@ -2,7 +2,7 @@
 
 ---
 
-## Script 1.1 — "Eat 1 banana daily" (~21s)
+## Script 1.1 — "Eat 1 banana daily" (~22s)
 
 **0–3s · Hook**
 🗣️ "Eat one banana daily and see what happens."
@@ -24,9 +24,9 @@
 🗣️ "All for about 100 calories."
 🎥 Bunch of bananas · 📝 ~105 KCAL
 
-**18–21s · CTA**
-🗣️ "Follow for one food every day."
-📝 FOLLOW FOR DAILY FOOD TIPS
+**18–22s · CTA**
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** One banana a day = energy, fewer cramps, better digestion 🍌 Share with your gym buddy!
 **Hashtags:** #banana #healthyfood #foodbenefits #fitnessfood #nutritiontips #gymfood
@@ -60,15 +60,15 @@
 🎥 Cutting amla · 📝 🍏 VITAMIN C BOMB
 
 **18–22s · CTA**
-🗣️ "Which one do you eat daily? Comment."
-📝 COMMENT YOUR FAVOURITE 👇
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** You don't need expensive supplements. Start with these 5 💯
 **Hashtags:** #superfoods #healthyeating #proteinfood #indianfood #fitnesstips #nutrition
 
 ---
 
-## Script 1.3 — "Soaked vs raw almonds" (~18s)
+## Script 1.3 — "Soaked vs raw almonds" (~19s)
 
 **0–3s · Hook**
 🗣️ "Are you eating almonds the wrong way?"
@@ -86,9 +86,9 @@
 🗣️ "Best: 5 to 8 soaked almonds every morning."
 🎥 Morning plate · 📝 5–8 ALMONDS / MORNING
 
-**15–18s · CTA**
-🗣️ "Save this and soak yours tonight."
-📝 SAVE THIS 📌
+**15–19s · CTA**
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Soaked or raw — the real answer 🌰
 **Hashtags:** #almonds #soakedalmonds #healthyhabits #morningroutine #nutrition

@@ -29,8 +29,8 @@
 🎥 Dry fruits · 📝 🌰 CALORIE DENSE
 
 **18–22s · CTA**
-🗣️ "Follow. 900-calorie shake recipe tomorrow."
-📝 PART 2 TOMORROW 🔔
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Gaining weight = eating MORE than you burn. These make it easy 💯
 **Hashtags:** #weightgain #skinnytomuscle #hardgainer #gainweight #bulking
@@ -68,8 +68,8 @@
 🎥 Blend + pour · 📝 900+ KCAL · ~30g PROTEIN
 
 **17–21s · CTA**
-🗣️ "Drink it between meals. Save this!"
-📝 SAVE THIS RECIPE 📌
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Homemade mass gainer for under ₹50 🔥 Between meals, not instead of them.
 **Hashtags:** #weightgainshake #massgainer #homemadeshake #bulkingdiet #weightgain
@@ -99,8 +99,8 @@
 🎥 Sleeping · 📝 4️⃣ SLEEP 7–8 HRS 😴
 
 **18–22s · CTA**
-🗣️ "Which mistake is yours? Comment the number."
-📝 COMMENT 1–4 👇
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Fix these 4 and the scale WILL move 📈
 **Hashtags:** #hardgainer #weightgaintips #skinnyguy #bulkingtips #musclegain

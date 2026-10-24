@@ -2,7 +2,7 @@
 
 ---
 
-## Script 5.1 — "Cut without losing muscle" (~21s)
+## Script 5.1 — "Cut without losing muscle" (~22s)
 
 **0–3s · Hook**
 🗣️ "Lose fat, keep muscle. 4 rules."
@@ -24,9 +24,9 @@
 🗣️ "Walk 8 to 10 thousand steps."
 🎥 Step counter · 📝 4️⃣ 8–10K STEPS 🚶
 
-**18–21s · CTA**
-🗣️ "Save this and start your cut."
-📝 SAVE & START 📌
+**18–22s · CTA**
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Lose fat, keep muscle. Simple, not easy 💯
 **Hashtags:** #cutting #fatloss #cuttingdiet #shredded #gymtips
@@ -60,15 +60,15 @@
 🎥 Grilled fish · 📝 🐟 LEAN + OMEGA-3
 
 **18–22s · CTA**
-🗣️ "Veg or non-veg? Comment below."
-📝 VEG 🌱 or NON-VEG 🍗? 👇
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Your cutting grocery list 🛒
 **Hashtags:** #cuttingdiet #highprotein #lowcalorie #fatlossfoods #proteinfoods
 
 ---
 
-## Script 5.3 — "Full day of eating: cut" (~24s)
+## Script 5.3 — "Full day of eating: cut" (~25s)
 
 **0–3s · Hook**
 🗣️ "What I eat on a cut. 1800 calories."
@@ -94,9 +94,9 @@
 🗣️ "Dinner: soya or fish curry, veggies, one roti."
 🎥 Dinner plate · 📝 🌙 PROTEIN + VEGGIES
 
-**21–24s · CTA**
-🗣️ "Follow for the veg version."
-📝 FOLLOW FOR VEG VERSION 🔔
+**21–25s · CTA**
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Cutting doesn't mean starving 💪
 **Hashtags:** #cuttingdiet #fulldayofeating #fatlossdiet #indiandiet #highproteindiet

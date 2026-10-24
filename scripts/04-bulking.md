@@ -2,7 +2,7 @@
 
 ---
 
-## Script 4.1 — "Clean vs dirty bulk" (~21s)
+## Script 4.1 — "Clean vs dirty bulk" (~22s)
 
 **0–3s · Hook**
 🗣️ "Clean bulk or dirty bulk? Which builds muscle?"
@@ -24,16 +24,16 @@
 🗣️ "Gain 0.25 to 0.5 kg per week."
 🎥 Weighing scale · 📝 0.25–0.5 KG / WEEK
 
-**18–21s · CTA**
-🗣️ "Follow for my bulking meal plan."
-📝 FOLLOW FOR PART 2 🔔
+**18–22s · CTA**
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Bulk smart, not dirty. More muscle, less fat to cut later 💪
 **Hashtags:** #cleanbulk #bulking #musclegain #gymdiet #bodybuilding
 
 ---
 
-## Script 4.2 — "Full day of eating: bulk" (~24s)
+## Script 4.2 — "Full day of eating: bulk" (~25s)
 
 **0–3s · Hook**
 🗣️ "Full day of eating. Clean bulk, 3000 calories."
@@ -59,9 +59,9 @@
 🗣️ "Dinner: rotis, soya curry or egg bhurji, curd."
 🎥 Dinner plate · 📝 🌙 ROTI + PROTEIN + CURD
 
-**21–24s · CTA**
-🗣️ "Adjust portions to your weight. Save this!"
-📝 SAVE THIS PLAN 📌
+**21–25s · CTA**
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Simple Indian bulking diet 🇮🇳💪 Aim for 1.6–2 g protein per kg bodyweight.
 **Hashtags:** #fulldayofeating #bulkingdiet #indianbulkingdiet #musclegain #highprotein
@@ -87,8 +87,8 @@
 🎥 Adding plates · 📝 3️⃣ NO PROGRESSIVE OVERLOAD
 
 **15–19s · CTA**
-🗣️ "Fix these. Follow for more."
-📝 FOLLOW 💪
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Bulking ≠ eating everything. Fix these 3 🔧
 **Hashtags:** #bulkingmistakes #bulking #gymtips #progressiveoverload #musclebuilding

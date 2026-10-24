@@ -2,7 +2,7 @@
 
 ---
 
-## Script 2.1 — "5 belly fat foods" (~23s)
+## Script 2.1 — "5 belly fat foods" (~22s)
 
 **0–3s · Hook**
 🗣️ "Want to lose belly fat? Eat these 5 foods."
@@ -28,9 +28,9 @@
 🗣️ "Roasted chana, the best low-cal snack."
 🎥 Handful of chana · 📝 🫘 ROASTED CHANA
 
-**18–23s · CTA**
-🗣️ "No food burns fat alone. A calorie deficit does. Follow!"
-📝 DEFICIT = FAT LOSS ✅
+**18–22s · CTA**
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** These 5 make a calorie deficit EASY 💯 Save for your next grocery run 🛒
 **Hashtags:** #bellyfat #fatloss #weightlossfoods #healthyeating #caloriedeficit #fitness
@@ -60,15 +60,15 @@
 🎥 Adding rice / roti · 📝 ¼ PLATE = CARBS
 
 **16–20s · CTA**
-🗣️ "Try this plate for 7 days and tell me."
-📝 TRY FOR 7 DAYS 👇
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** You don't need to starve to lose weight. Eat smarter 🍽️
 **Hashtags:** #volumeeating #weightlossjourney #healthyplate #fatlossdiet #indiandiet
 
 ---
 
-## Script 2.3 — "Stop eating these" (~22s)
+## Script 2.3 — "Stop eating these" (~23s)
 
 **0–3s · Hook**
 🗣️ "Working out daily but not losing weight? Stop these."
@@ -90,9 +90,9 @@
 🗣️ "Late-night junk. Have curd instead."
 🎥 Chips → curd · 📝 ❌ NIGHT JUNK → ✅ CURD
 
-**19–22s · CTA**
-🗣️ "Share this with a friend who needs it."
-📝 SHARE 📤
+**19–23s · CTA**
+🗣️ "Save this video, or share it with a friend."
+📝 SAVE 📌 & SHARE WITH A FRIEND 📤
 
 **Caption:** Small swaps = big results 🔁 Which one are you guilty of?
 **Hashtags:** #weightlosstips #healthyswaps #fatloss #eatclean #diettips
