@@ -20,6 +20,9 @@ All 18 scripts in **Tenglish** (Telugu written in English letters) are in one
 file: [TENGLISH-ALL-SCRIPTS.md](TENGLISH-ALL-SCRIPTS.md). Voiceover and captions
 are Tenglish; on-screen text stays in short English so it reads fast.
 
+**Part 2** — 18 more Tenglish scripts (scripts 1.4–6.6, same 6 topics):
+[TENGLISH-SCRIPTS-PART-2.md](TENGLISH-SCRIPTS-PART-2.md).
+
 ## Script format
 
 Every script follows the same structure:
