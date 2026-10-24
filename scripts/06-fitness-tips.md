@@ -29,8 +29,8 @@
 🎥 Early-morning gym entry · 📝 5️⃣ CONSISTENCY > MOTIVATION
 
 **19–23s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Share this with a friend who just joined the gym."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Would've saved me a year of slow progress 😅
 **Hashtags:** #gymtips #fitnesstips #beginnergym #gymmotivation #consistency
@@ -60,8 +60,8 @@
 🎥 Writing in notebook · 📝 3 × 8–12 REPS
 
 **19–23s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Save this plan and start Monday."
+📝 SAVE THIS 📌
 
 **Caption:** Simple beats complicated. Do this for 3 months 🙌
 **Hashtags:** #beginnerworkout #gymbeginner #pushpulllegs #workoutplan #gymtips
@@ -91,8 +91,8 @@
 🎥 Eggs / paneer bhurji · 📝 🍳 PROTEIN BREAKFAST
 
 **16–20s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Save this routine and start tomorrow."
+📝 SAVE THIS 📌
 
 **Caption:** Win the morning, win the day ☀️
 **Hashtags:** #morningroutine #healthyhabits #fitnesstips #dailyhabits #fitness

@@ -29,8 +29,8 @@
 🎥 Handful of chana · 📝 🫘 ROASTED CHANA
 
 **18–22s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Share this with a friend who wants to lose belly fat."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** These 5 make a calorie deficit EASY 💯 Save for your next grocery run 🛒
 **Hashtags:** #bellyfat #fatloss #weightlossfoods #healthyeating #caloriedeficit #fitness
@@ -60,8 +60,8 @@
 🎥 Adding rice / roti · 📝 ¼ PLATE = CARBS
 
 **16–20s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Save this plate method and follow it daily."
+📝 SAVE THIS 📌
 
 **Caption:** You don't need to starve to lose weight. Eat smarter 🍽️
 **Hashtags:** #volumeeating #weightlossjourney #healthyplate #fatlossdiet #indiandiet
@@ -91,8 +91,8 @@
 🎥 Chips → curd · 📝 ❌ NIGHT JUNK → ✅ CURD
 
 **19–23s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Share this with a friend who loves cold drinks."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Small swaps = big results 🔁 Which one are you guilty of?
 **Hashtags:** #weightlosstips #healthyswaps #fatloss #eatclean #diettips

@@ -25,8 +25,8 @@
 🎥 Bunch of bananas · 📝 ~105 KCAL
 
 **18–22s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Save this so you never forget your daily banana."
+📝 SAVE THIS 📌
 
 **Caption:** One banana a day = energy, fewer cramps, better digestion 🍌 Share with your gym buddy!
 **Hashtags:** #banana #healthyfood #foodbenefits #fitnessfood #nutritiontips #gymfood
@@ -60,8 +60,8 @@
 🎥 Cutting amla · 📝 🍏 VITAMIN C BOMB
 
 **18–22s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Save this list for your next grocery run."
+📝 SAVE THIS 📌
 
 **Caption:** You don't need expensive supplements. Start with these 5 💯
 **Hashtags:** #superfoods #healthyeating #proteinfood #indianfood #fitnesstips #nutrition
@@ -87,8 +87,8 @@
 🎥 Morning plate · 📝 5–8 ALMONDS / MORNING
 
 **15–19s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Share this with a friend who eats almonds wrong."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Soaked or raw — the real answer 🌰
 **Hashtags:** #almonds #soakedalmonds #healthyhabits #morningroutine #nutrition

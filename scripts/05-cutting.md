@@ -25,8 +25,8 @@
 🎥 Step counter · 📝 4️⃣ 8–10K STEPS 🚶
 
 **18–22s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Save these 4 rules for your cut."
+📝 SAVE THIS 📌
 
 **Caption:** Lose fat, keep muscle. Simple, not easy 💯
 **Hashtags:** #cutting #fatloss #cuttingdiet #shredded #gymtips
@@ -60,8 +60,8 @@
 🎥 Grilled fish · 📝 🐟 LEAN + OMEGA-3
 
 **18–22s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Save this cutting grocery list."
+📝 SAVE THIS 📌
 
 **Caption:** Your cutting grocery list 🛒
 **Hashtags:** #cuttingdiet #highprotein #lowcalorie #fatlossfoods #proteinfoods
@@ -95,8 +95,8 @@
 🎥 Dinner plate · 📝 🌙 PROTEIN + VEGGIES
 
 **21–25s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Save this cutting diet plan."
+📝 SAVE THIS 📌
 
 **Caption:** Cutting doesn't mean starving 💪
 **Hashtags:** #cuttingdiet #fulldayofeating #fatlossdiet #indiandiet #highproteindiet

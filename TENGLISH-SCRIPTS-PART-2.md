@@ -1,7 +1,7 @@
 # Reel Scripts — Part 2 (Tenglish)
 
-18 new scripts, same 6 topics, 3 each. Each reel is 20–25s and ends with
-"Ee video save cheskondi, leda mee friend ki share cheyyandi."
+18 new scripts, same 6 topics, 3 each. Each reel is 20–25s and ends with its
+own save or share line that fits the topic.
 🗣️ = voiceover (Tenglish) · 🎥 = what to film · 📝 = on-screen text
 
 ---
@@ -27,8 +27,8 @@
 🎥 3 ragi dishes side by side · 📝 JAVA · SANGATI · DOSA
 
 **15–19s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ragi tinani mee friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Old is gold 💪 Ragi mee diet lo unda?
 **Hashtags:** #ragi #ragijava #healthyfood #telugufitness #telugureels #millets
@@ -58,8 +58,8 @@
 🎥 One handful in palm · 📝 1 HANDFUL / DAY
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Badam kosam ekkuva kharchu chese friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Protein kosam costly badam avasaram ledu 🥜
 **Hashtags:** #peanuts #almonds #protein #telugufitness #telugureels #budgetdiet
@@ -85,8 +85,8 @@
 🎥 Soda bottle ❌ → coconut ✅ · 📝 ❌ SODA ✅ COCONUT WATER
 
 **15–19s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Workout tarvata cool drink taage friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Nature's sports drink 🥥
 **Hashtags:** #coconutwater #hydration #postworkout #telugufitness #telugureels
@@ -122,8 +122,8 @@
 🎥 Sprouts bowl · 📝 5️⃣ SPROUTS CHAAT
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee 5 breakfasts save cheskondi, roju okati try cheyyandi."
+📝 SAVE THIS 📌
 
 **Caption:** Telugu breakfast tho weight loss 🍳 Meeru edi tintaru?
 **Hashtags:** #weightlossbreakfast #pesarattu #fatloss #telugufitness #telugureels
@@ -153,8 +153,8 @@
 🎥 Happy person eating · 📝 EAT RICE, STILL LOSE FAT ✅
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Annam maanesina friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Annam enemy kaadu, quantity ne problem 🍚
 **Hashtags:** #ricemyth #weightloss #indiandiet #telugufitness #telugureels
@@ -184,8 +184,8 @@
 🎥 Pushing away a sweet · 📝 4️⃣ NO SWEETS AFTER ❌
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee dinner rules save cheskondi."
+📝 SAVE THIS 📌
 
 **Caption:** Dinner correct aite, weight loss half done 🌙
 **Hashtags:** #dinnertips #weightlosstips #fatloss #telugufitness #telugureels
@@ -217,8 +217,8 @@
 🎥 Full plate overhead shot · 📝 ~850 KCAL 🔥
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee breakfast save cheskondi, repu try cheyyandi."
+📝 SAVE THIS 📌
 
 **Caption:** Day ni strong ga start cheyyandi 💪
 **Hashtags:** #weightgain #weightgainbreakfast #hardgainer #telugufitness #telugureels
@@ -252,8 +252,8 @@
 🎥 Soya packet · 📝 5️⃣ 🌱 SOYA · ALL CHEAP
 
 **19–23s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Budget lo weight penchali anukune friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Weight gain on a budget 💰 Ee 5 chalu.
 **Hashtags:** #budgetdiet #weightgain #cheapprotein #telugufitness #telugureels
@@ -283,8 +283,8 @@
 🎥 Handful of dry fruits · 📝 🌰 DRY FRUITS = 150
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee tricks save cheskondi, roju add cheyyandi."
+📝 SAVE THIS 📌
 
 **Caption:** Ekkuva tinakunda ekkuva calories 😎
 **Hashtags:** #weightgaintips #hardgainer #calories #telugufitness #telugureels
@@ -316,8 +316,8 @@
 🎥 Peanuts + PB jar · 📝 🥜 EXTRA CALORIES
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Veg gym friend ki ee video share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Veg tho kuda muscle penchochu 🌱💪
 **Hashtags:** #vegbulking #vegetarianprotein #bulking #telugufitness #telugureels
@@ -347,8 +347,8 @@
 🎥 Glass of milk at night · 📝 🥛 NIGHT MILK
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Hostel lo unna mee friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Hostel excuse ika vaddu 😤
 **Hashtags:** #hostellife #bulking #budgetbulk #telugufitness #telugureels
@@ -378,8 +378,8 @@
 🎥 Quick cuts of each food · 📝 🥚🍗🧀🌱🥤
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee formula save cheskondi, mee number calculate cheyyandi."
+📝 SAVE THIS 📌
 
 **Caption:** Mee weight × 1.6 = mee protein target. Comment lo mee number cheppandi 👇
 **Hashtags:** #protein #proteinintake #musclegain #telugufitness #telugureels
@@ -411,8 +411,8 @@
 🎥 Sleeping · 📝 4️⃣ SLEEP = FEWER CRAVINGS 😴
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Sweets aapaleni friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Cravings ni control cheyyandi, cravings mimmalni kaadu 😤
 **Hashtags:** #cravings #cutting #fatloss #telugufitness #telugureels
@@ -442,8 +442,8 @@
 🎥 Pizza + sweets on weekend · 📝 4️⃣ WEEKEND BINGE 🍕
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee mistakes chestunna friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Meeru edi chestunnaru? Honest ga cheppandi 😅
 **Hashtags:** #cuttingmistakes #fatloss #cutting #telugufitness #telugureels
@@ -477,8 +477,8 @@
 🎥 Dinner plate · 📝 🌙 SOYA + ROTI
 
 **21–25s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee veg diet plan save cheskondi."
+📝 SAVE THIS 📌
 
 **Caption:** Veg tho kuda shred avvochu 🌱🔥
 **Hashtags:** #vegcutting #vegdiet #fatlossdiet #telugufitness #telugureels
@@ -514,8 +514,8 @@
 🎥 Resting, water sip · 📝 3 ROUNDS · 1 MIN REST
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee workout save cheskondi, ivale try cheyyandi."
+📝 SAVE THIS 📌
 
 **Caption:** Gym ledu ani excuse vaddu 🏠💪
 **Hashtags:** #homeworkout #noequipment #bodyweight #telugufitness #telugureels
@@ -545,8 +545,8 @@
 🎥 Wandering between machines · 📝 4️⃣ NO PLAN 📋
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Gym ki kotha ga vellina friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Meeru edi chesaru? Number comment cheyyandi 😂
 **Hashtags:** #gymmistakes #beginnergym #gymtips #telugufitness #telugureels
@@ -576,8 +576,8 @@
 🎥 Plank / crunches · 📝 STRONG ABS ≠ FAT BURN
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Roju crunches chese friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Abs kitchen lo build avutayi 😉
 **Hashtags:** #bellyfat #spotreduction #fitnessmyths #telugufitness #telugureels

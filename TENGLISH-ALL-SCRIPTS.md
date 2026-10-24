@@ -30,8 +30,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Bunch of bananas · 📝 ~105 KCAL
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Roju banana marchipokunda, ee video save cheskondi."
+📝 SAVE THIS 📌
 
 **Caption:** Roju oka banana = energy, cramps takkuva, digestion better 🍌 Mee gym friend ki share cheyyandi!
 **Hashtags:** #banana #healthyfood #telugufitness #telugureels #foodbenefits
@@ -65,8 +65,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Cutting amla · 📝 🍏 VITAMIN C BOMB
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee 5 foods list save cheskondi, grocery ki use avutundi."
+📝 SAVE THIS 📌
 
 **Caption:** Expensive supplements avasaram ledu. Ee 5 tho start cheyyandi 💯
 **Hashtags:** #superfoods #healthyeating #telugufitness #telugureels #proteinfood
@@ -92,8 +92,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Morning plate · 📝 5–8 ALMONDS / MORNING
 
 **15–19s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Badam wrong ga tine friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Nanabettinava, raw aa? Real answer idi 🌰
 **Hashtags:** #almonds #soakedalmonds #telugufitness #telugureels #healthyhabits
@@ -130,8 +130,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Handful of chana · 📝 🫘 ROASTED CHANA
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Belly fat taggalanukune friend ki ee video share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Ee 5 tho calorie deficit chala easy 💯 Next grocery ki save cheyyandi 🛒
 **Hashtags:** #bellyfat #fatloss #weightlossfoods #telugufitness #telugureels
@@ -161,8 +161,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Adding rice / roti · 📝 ¼ PLATE = CARBS
 
 **16–20s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee plate method save cheskondi, roju follow avvandi."
+📝 SAVE THIS 📌
 
 **Caption:** Weight taggalante aakali tho undakkarledu. Smart ga tinandi 🍽️
 **Hashtags:** #volumeeating #weightloss #indiandiet #telugufitness #telugureels
@@ -192,8 +192,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Chips → curd · 📝 ❌ NIGHT JUNK → ✅ CURD
 
 **19–23s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Cool drinks ekkuva taage friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Chinna swaps = pedda results 🔁 Meeru edi chestunnaru?
 **Hashtags:** #weightlosstips #healthyswaps #fatloss #telugufitness #telugureels
@@ -230,8 +230,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Dry fruits · 📝 🌰 CALORIE DENSE
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Sannaga unna mee friend ki ee video share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Weight peragalante, burn chese daani kante ekkuva tinali. Ivi easy chestayi 💯
 **Hashtags:** #weightgain #skinnytomuscle #hardgainer #telugufitness #telugureels
@@ -269,8 +269,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Blend + pour · 📝 900+ KCAL · ~30g PROTEIN
 
 **17–21s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee shake recipe save cheskondi, repu try cheyyandi."
+📝 SAVE THIS 📌
 
 **Caption:** ₹50 lopu homemade mass gainer 🔥 Meals madhyalo taagandi, meals badulu kaadu.
 **Hashtags:** #weightgainshake #massgainer #homemadeshake #telugufitness #telugureels
@@ -300,8 +300,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Sleeping · 📝 4️⃣ SLEEP 7–8 HRS 😴
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Weight perugatledu ani cheppe friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Ee 4 fix cheste scale kachitanga kadulutundi 📈
 **Hashtags:** #hardgainer #weightgaintips #musclegain #telugufitness #telugureels
@@ -334,8 +334,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Weighing scale · 📝 0.25–0.5 KG / WEEK
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Dirty bulk chestunna friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Smart ga bulk cheyyandi. Ekkuva muscle, taruvata cut cheyyalsina fat takkuva 💪
 **Hashtags:** #cleanbulk #bulking #musclegain #telugufitness #telugureels
@@ -369,8 +369,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Dinner plate · 📝 🌙 ROTI + PROTEIN + CURD
 
 **21–25s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee bulking diet plan save cheskondi."
+📝 SAVE THIS 📌
 
 **Caption:** Simple Telugu bulking diet 💪 Body weight kg ki 1.6–2 g protein target cheyyandi.
 **Hashtags:** #fulldayofeating #bulkingdiet #musclegain #telugufitness #telugureels
@@ -396,8 +396,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Adding plates · 📝 3️⃣ NO PROGRESSIVE OVERLOAD
 
 **15–19s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Bulking lo fat penchukuntunna gym friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Bulking ante edi padite adi tinadam kaadu. Ee 3 fix cheyyandi 🔧
 **Hashtags:** #bulkingmistakes #bulking #gymtips #telugufitness #telugureels
@@ -430,8 +430,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Step counter · 📝 4️⃣ 8–10K STEPS 🚶
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee 4 rules save cheskondi, cut lo use avutayi."
+📝 SAVE THIS 📌
 
 **Caption:** Fat taggali, muscle undali. Simple, kani easy kaadu 💯
 **Hashtags:** #cutting #fatloss #cuttingdiet #telugufitness #telugureels
@@ -465,8 +465,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Grilled fish · 📝 🐟 LEAN + OMEGA-3
 
 **18–22s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee cutting grocery list save cheskondi."
+📝 SAVE THIS 📌
 
 **Caption:** Mee cutting grocery list 🛒
 **Hashtags:** #cuttingdiet #highprotein #fatlossfoods #telugufitness #telugureels
@@ -500,8 +500,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Dinner plate · 📝 🌙 PROTEIN + VEGGIES
 
 **21–25s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee cutting diet plan save cheskondi."
+📝 SAVE THIS 📌
 
 **Caption:** Cutting ante aakali tho undadam kaadu 💪
 **Hashtags:** #cuttingdiet #fulldayofeating #fatlossdiet #telugufitness #telugureels
@@ -538,8 +538,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Early-morning gym entry · 📝 5️⃣ CONSISTENCY > MOTIVATION
 
 **19–23s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Kotha ga gym join ayina friend ki share cheyyandi."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Mundu telisi unte oka year progress save ayyedi 😅
 **Hashtags:** #gymtips #fitnesstips #beginnergym #telugufitness #telugureels
@@ -569,8 +569,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Writing in notebook · 📝 3 × 8–12 REPS
 
 **19–23s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee plan save cheskondi, Monday nunchi start cheyyandi."
+📝 SAVE THIS 📌
 
 **Caption:** Simple ga unte chalu. 3 months idi cheyyandi 🙌
 **Hashtags:** #beginnerworkout #gymbeginner #workoutplan #telugufitness #telugureels
@@ -600,8 +600,8 @@ All 18 scripts in one file. Each reel is 20–25s.
 🎥 Eggs / paneer bhurji · 📝 🍳 PROTEIN BREAKFAST
 
 **16–20s · CTA**
-🗣️ "Ee video save cheskondi, leda mee friend ki share cheyyandi."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Ee routine save cheskondi, repu morning nunchi start."
+📝 SAVE THIS 📌
 
 **Caption:** Morning win aite, day win ☀️
 **Hashtags:** #morningroutine #healthyhabits #telugufitness #telugureels #fitnesstips

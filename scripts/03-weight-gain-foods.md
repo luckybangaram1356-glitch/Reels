@@ -29,8 +29,8 @@
 🎥 Dry fruits · 📝 🌰 CALORIE DENSE
 
 **18–22s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Share this with your skinny friend."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Gaining weight = eating MORE than you burn. These make it easy 💯
 **Hashtags:** #weightgain #skinnytomuscle #hardgainer #gainweight #bulking
@@ -68,8 +68,8 @@
 🎥 Blend + pour · 📝 900+ KCAL · ~30g PROTEIN
 
 **17–21s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Save this recipe and try it tomorrow."
+📝 SAVE THIS 📌
 
 **Caption:** Homemade mass gainer for under ₹50 🔥 Between meals, not instead of them.
 **Hashtags:** #weightgainshake #massgainer #homemadeshake #bulkingdiet #weightgain
@@ -99,8 +99,8 @@
 🎥 Sleeping · 📝 4️⃣ SLEEP 7–8 HRS 😴
 
 **18–22s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Share this with a friend who can't gain weight."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Fix these 4 and the scale WILL move 📈
 **Hashtags:** #hardgainer #weightgaintips #skinnyguy #bulkingtips #musclegain

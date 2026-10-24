@@ -30,7 +30,8 @@ Every script follows the same structure:
 - **Hook (0–3s)** — the line that stops the scroll. Say it fast, show the food/result immediately.
 - **Body** — one short line per cut (2–4s each). `🗣️` = voiceover, `🎥` = what to show, `📝` = on-screen text.
   Timestamps assume a normal speaking pace (~2.5 words/sec).
-- **CTA (last 4s)** — every script ends the same way: "Save this video, or share it with a friend." (Tenglish: "Ee video save cheskondi, leda mee friend ki share cheyyandi.")
+- **CTA (last 4s)** — a save or share line written for that script. Plans, recipes and
+  lists say "save this"; mistakes, myths and tips say "share with a friend who…".
 - **Caption + hashtags** — paste-ready.
 
 ## Shooting tips for this style

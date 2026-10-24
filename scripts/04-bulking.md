@@ -25,8 +25,8 @@
 🎥 Weighing scale · 📝 0.25–0.5 KG / WEEK
 
 **18–22s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Share this with a friend on a dirty bulk."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Bulk smart, not dirty. More muscle, less fat to cut later 💪
 **Hashtags:** #cleanbulk #bulking #musclegain #gymdiet #bodybuilding
@@ -60,8 +60,8 @@
 🎥 Dinner plate · 📝 🌙 ROTI + PROTEIN + CURD
 
 **21–25s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Save this bulking plan."
+📝 SAVE THIS 📌
 
 **Caption:** Simple Indian bulking diet 🇮🇳💪 Aim for 1.6–2 g protein per kg bodyweight.
 **Hashtags:** #fulldayofeating #bulkingdiet #indianbulkingdiet #musclegain #highprotein
@@ -87,8 +87,8 @@
 🎥 Adding plates · 📝 3️⃣ NO PROGRESSIVE OVERLOAD
 
 **15–19s · CTA**
-🗣️ "Save this video, or share it with a friend."
-📝 SAVE 📌 & SHARE WITH A FRIEND 📤
+🗣️ "Share this with a gym friend who's bulking."
+📝 SEND TO A FRIEND 📤
 
 **Caption:** Bulking ≠ eating everything. Fix these 3 🔧
 **Hashtags:** #bulkingmistakes #bulking #gymtips #progressiveoverload #musclebuilding
