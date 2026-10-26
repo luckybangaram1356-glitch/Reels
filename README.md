@@ -27,6 +27,10 @@ are Tenglish; on-screen text stays in short English so it reads fast.
 sleep, hair and more), with pop-up icons, a "comment KEYWORD" ending and a
 ready auto-DM reply for each: [TENGLISH-SCRIPTS-PART-3.md](TENGLISH-SCRIPTS-PART-3.md).
 
+**Part 4** — 15 more scripts in the same format (joints, heart, ₹100 protein,
+food swaps, beard, belly fat drinks and more):
+[TENGLISH-SCRIPTS-PART-4.md](TENGLISH-SCRIPTS-PART-4.md).
+
 ## Script format
 
 Every script follows the same structure:
