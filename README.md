@@ -23,6 +23,10 @@ are Tenglish; on-screen text stays in short English so it reads fast.
 **Part 2** — 18 more Tenglish scripts (scripts 1.4–6.6, same 6 topics):
 [TENGLISH-SCRIPTS-PART-2.md](TENGLISH-SCRIPTS-PART-2.md).
 
+**Part 3** — 14 Tenglish "5 foods for X" talking-head scripts (skin, stamina,
+sleep, hair and more), with pop-up icons, a "comment KEYWORD" ending and a
+ready auto-DM reply for each: [TENGLISH-SCRIPTS-PART-3.md](TENGLISH-SCRIPTS-PART-3.md).
+
 ## Script format
 
 Every script follows the same structure:
