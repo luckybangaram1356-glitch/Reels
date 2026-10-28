@@ -52,3 +52,7 @@ Every script follows the same structure:
 
 > Nutrition numbers are approximate (per 100 g unless stated) and for general
 > fitness content — not medical advice.
+
+**Teleprompter** — only the lines to say, for all 29 Part 3 and 4 reels, in
+one file you can read off your phone while filming:
+[TELEPROMPTER-SCRIPTS.md](TELEPROMPTER-SCRIPTS.md).
