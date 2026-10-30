@@ -35,6 +35,9 @@ food swaps, beard, belly fat drinks and more):
 one file you can read off your phone while filming:
 [TELEPROMPTER-SCRIPTS.md](TELEPROMPTER-SCRIPTS.md).
 
+**DM replies** — ready-to-paste DM message for every comment keyword (plus
+'FOOD' for the 5-seeds hair reel): [DM-REPLIES.md](DM-REPLIES.md).
+
 ## Script format
 
 Every script follows the same structure:
