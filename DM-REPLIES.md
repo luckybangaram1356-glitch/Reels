@@ -450,3 +450,239 @@ Train 3–4x a week so the weight comes as muscle.
 
 Save cheskondi 📌 Inka tips kosam follow avvandi 💪
 ```
+
+## WINTER — Chali kaalam lo 5 foods
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🧣 Winter plan
+Morning: allam tea (less sugar) + 2 kharjuram
+Snack: 1 piece palli chikki (not the whole packet)
+Evening: 1 boiled / roasted chilagada dumpa
+1 tsp ghee on rice or roti daily
+Keep drinking 2.5 L water. You feel less thirsty in winter, but you still need it.
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## DIWALI — Diwali ki 5 healthy sweets
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🪔 Healthy Diwali sweets
+Dates laddu: blend 15 seedless kharjuram + 1 cup chopped nuts, roll into laddus
+Nuvvula laddu: roast nuvvulu, mix with melted bellam, roll while warm
+Ragi laddu: roast ragi flour in 1 spoon ghee, add powdered bellam + nuts
+Makhana kheer: roast makhana, cook in milk, sweeten with bellam / dates
+Shrikhand: hung curd + a little honey + elaichi + kesar
+Healthier still means calories. 1–2 pieces a day, enjoy the festival 🙂
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## FIBER — Fiber kosam 5 foods
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🌾 Fiber plan (target: 25–30g a day)
+Breakfast: 40g oats → ~4g
+Lunch: rajma / chana curry + veggies → ~10g
+Snack: 40g roasted chana + 1 carrot → ~8g
+Dinner: bendakaya / any sabzi + 2 roti → ~6g
+Add fiber slowly and drink more water, or you'll feel bloated.
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## VITAMIND — Vitamin D kosam 5 sources
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+☀️ Vitamin D plan
+Sun: 15–20 min between 11 am and 2 pm, arms and face open, no sunscreen for those minutes, 4–5 days a week
+2 eggs daily with the yolk
+Fish (kavalu / bangda) 2x a week
+Mushrooms: keep them in sunlight 30 min before cooking for more vitamin D
+Pick milk that says "Vitamin D fortified" on the pack
+Tired, body pains, hair fall? Get a Vitamin D test. Take supplements only as your doctor advises.
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## B12 — Veg vallaki B12 kosam 5 foods
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🧠 B12 for vegetarians (you need ~2.4 mcg a day)
+2 glasses milk → ~1 mcg
+1 bowl curd + 100g paneer → ~1 mcg
+2 eggs (if you eat them) → ~1 mcg
+Fortified cereal / milk → check the label
+Pure vegetarians often fall short even with this. Get a B12 test once a year, and if it's low, take a supplement as your doctor advises.
+Watch for: tingling hands / feet, tiredness, poor memory.
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## FRUITS — Fat loss ki 5 fruits
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🍎 Fruits for fat loss
+1–2 fruits a day (1 fruit = 1 medium piece or 1 bowl)
+Best time: as a snack between meals, or before a workout
+Night is fine. Calories count the same at any time.
+Eat the whole fruit, not juice (the fiber keeps you full)
+Go easy on mango, chikoo and grapes. They're tasty but high in sugar.
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## VEGGIES — Fat loss ki 5 kooragayalu
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🥬 Low-cal veg ideas
+Sorakaya: dal or curry, 1 tsp oil
+Beerakaya: with pesarapappu, light tadka
+Cabbage: poriyal with coconut, or in egg bhurji
+Cauliflower: grate it and cook like rice, mix 50/50 with real rice
+Mushrooms: pepper fry or with paneer
+Rule: fill half your plate with these. Oil is the hidden calorie, so measure it with a spoon.
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## GREENS — 5 aakukooralu — power greens
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🌿 Greens plan
+Munagaku: podi or dal, 2–3x a week
+Karivepaku: chutney / podi, or chew 5–6 leaves in the morning
+Pudina: chutney or mint water after heavy meals
+Kothimeera: a fistful on every curry
+Menthikura: dal or paratha, 2x a week
+Wash well. Don't overcook (you lose vitamins).
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## MILLETS — 5 millets — rice badulu
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🌾 Millets made easy
+Korralu / arikelu: soak 4–6 hrs, cook 1 cup millet with 2.5 cups water (like rice)
+Ragi: java for breakfast, or mudde / sangati
+Jonna / sajja: rotte for dinner
+Start with 2–3 millet meals a week, or mix 50/50 with rice
+Drink enough water. Millets are high in fiber.
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## TRAPS — Healthy anukune 5 traps
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🚫 Trap → better swap
+Granola → plain oats + fruit + nuts
+Packed brown bread → check that the first ingredient is "whole wheat flour (atta) 100%", or eat roti
+Protein bar → curd + banana, or a homemade chana snack
+Diet namkeen → roasted chana / makhana
+Flavoured yogurt → plain curd + fruit + 1 tsp honey
+Tip: always read the label. Ingredients are listed from most to least.
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## NONVEG — Non-veg protein — 5 best
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🍗 Non-veg, lean cooking
+Chicken breast: grill / air-fry / tandoori, not deep fried
+Prawns: dry roast with masala, 1 tsp oil
+Fish: pulusu or grilled instead of fried
+Eggs: boiled / bhurji, 3–4 a day is fine for most people
+Mutton: lean pieces, curry once a week, skip fatty pieces
+Protein values are per 100g cooked (eggs: ~6g each).
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## HEIGHT — Height perugutunda? 5 foods
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+📏 The honest truth about height
+Height is mostly genetic. Most people stop growing at ~16–18 (girls) and ~18–21 (boys), once the growth plates close.
+Before that, good food helps you reach your full potential:
+Daily: 2 glasses milk + 2 eggs or 100g paneer + ragi / dal / soya
+Sleep 8–9 hrs (growth hormone peaks in deep sleep)
+Sports: swimming, basketball, cycling
+After growth stops: good posture + strong back muscles make you stand taller.
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## LUNCH — Office lunch box — 5 protein ideas
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🍱 Week lunch plan
+Mon: paneer bhurji (100g paneer) + 2 roti
+Tue: egg curry (3 eggs) + rice + cucumber
+Wed: soya pulao (50g soya) + raita
+Thu: chicken curry (150g) + rice
+Fri: sprouts salad (1 bowl) + curd + 1 roti
+Prep tip: cook the protein on Sunday night, store it in the fridge, and only make the roti / rice fresh.
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## BREAKFAST — Muscle kosam 5 Indian breakfasts
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🍳 Protein breakfast recipes
+Egg dosa: spread dosa batter, crack 2 eggs on top, add onion + kaaram podi
+Paneer paratha: 75g grated paneer stuffed in atta dough + 1 bowl curd
+Soya upma: 30g soaked soya granules into rava / vermicelli upma
+Pesarattu: 3 pesarattu (from ~80g moong) + allam chutney
+Oats: 40g oats in 250ml milk + 1 spoon peanut butter + banana
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## ACIDITY — Acidity ki 5 foods
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+🧯 Acidity relief + 5 habits
+Relief: 1 banana, or a glass of majjiga, or 1 tsp sompu after meals
+1. Dinner 2–3 hrs before bed, never lie down right after eating
+2. Smaller meals, don't stuff yourself
+3. Less spicy, oily and fried food, especially at night
+4. Max 2 cups tea / coffee, never on an empty stomach
+5. Don't skip meals (an empty stomach makes acid too)
+Acidity 2+ times a week? See a doctor. Don't depend on antacids daily.
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```

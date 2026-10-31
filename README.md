@@ -31,7 +31,10 @@ ready auto-DM reply for each: [TENGLISH-SCRIPTS-PART-3.md](TENGLISH-SCRIPTS-PART
 food swaps, beard, belly fat drinks and more):
 [TENGLISH-SCRIPTS-PART-4.md](TENGLISH-SCRIPTS-PART-4.md).
 
-**Teleprompter** — only the lines to say, for all 29 Part 3 and 4 reels, in
+**Part 5** — 15 more (winter, Diwali sweets, Vitamin D, B12, millets, height,
+lunch box, acidity and more): [TENGLISH-SCRIPTS-PART-5.md](TENGLISH-SCRIPTS-PART-5.md).
+
+**Teleprompter** — only the lines to say, for all 44 Part 3–5 reels, in
 one file you can read off your phone while filming:
 [TELEPROMPTER-SCRIPTS.md](TELEPROMPTER-SCRIPTS.md).
 

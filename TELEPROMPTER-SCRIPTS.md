@@ -1,8 +1,8 @@
-# Teleprompter Scripts (Tenglish) — Parts 3 & 4
+# Teleprompter Scripts (Tenglish) — Parts 3–5
 
 Just the words to say on camera, top to bottom, for every "5 foods for X" reel.
 Read one line, pause a beat for the pop-up, read the next. ~25s each.
-Full shot list, pop-up text and DM replies: [Part 3](TENGLISH-SCRIPTS-PART-3.md) · [Part 4](TENGLISH-SCRIPTS-PART-4.md).
+Full shot list, pop-up text and DM replies: [Part 3](TENGLISH-SCRIPTS-PART-3.md) · [Part 4](TENGLISH-SCRIPTS-PART-4.md) · [Part 5](TENGLISH-SCRIPTS-PART-5.md). Copy-paste DMs: [DM-REPLIES.md](DM-REPLIES.md).
 
 ---
 
@@ -525,3 +525,273 @@ Kharjuram paalu. Energy plus calories.
 Paneer. Protein plus fats.
 
 Night 1000 calories plan kavala? Comment 'GAIN'.
+
+---
+
+## 5.1 — Chali kaalam lo 5 foods  ·  comment 'WINTER'
+
+Chali modalaindi. Ee 5 foods mee intlo undali.
+
+Palli chikki, bellam tho. Energy plus warmth.
+
+Kharjuram. Iron, instant energy.
+
+Chilagada dumpa. Fiber, Vitamin A.
+
+Allam tea. Throat ki, cold ki.
+
+Oka spoon neyyi. Dry skin ki.
+
+Ivi eppudu teeskovali? Ela teeskovali? Comment 'WINTER'.
+
+---
+
+## 5.2 — Diwali ki 5 healthy sweets  ·  comment 'DIWALI'
+
+Diwali lo sweets aapakkarledu. Ee 5 tho replace cheyyandi.
+
+Kharjuram dry fruit laddu. Sugar lekunda.
+
+Nuvvula laddu, bellam tho.
+
+Ragi laddu. Fiber plus calcium.
+
+Makhana kheer, bellam tho.
+
+Shrikhand, hung curd tho. Protein sweet.
+
+Recipes kavala? Comment 'DIWALI'.
+
+---
+
+## 5.3 — Fiber kosam 5 foods  ·  comment 'FIBER'
+
+Protein gurinchi andaru cheptaru. Fiber marchipotunnaru.
+
+Oats. Breakfast ki best fiber.
+
+Rajma. Fiber plus protein.
+
+Senagalu. Snack ki perfect.
+
+Bendakaya. Digestion smooth.
+
+Carrot. Crunchy fiber.
+
+Roju entha fiber kavali? Comment 'FIBER'.
+
+---
+
+## 5.4 — Vitamin D kosam 5 sources  ·  comment 'VITAMIND'
+
+Chala mandi Indians ki Vitamin D takkuva. Meeku kuda undocchu.
+
+Number one, free: enda.
+
+Egg yolk. Paaraveyyakandi.
+
+Fish. Kavalu, bangda.
+
+Mushrooms. Veg source.
+
+Fortified milk. Label chudandi.
+
+Enda lo entha sepu, eppudu nilabadali? Comment 'VITAMIND'.
+
+---
+
+## 5.5 — Veg vallaki B12 kosam 5 foods  ·  comment 'B12'
+
+Chetulu timmirlu, eppudu alasata? B12 takkuva undochu.
+
+Paalu. Roju 2 glasses.
+
+Perugu. B12 plus gut health.
+
+Paneer. B12 plus protein.
+
+Eggs. Egg tinte, best veg-friendly source.
+
+Fortified foods. Cereals, milk, label chudandi.
+
+Ivi saripotaya, supplement kavala? Comment 'B12'.
+
+---
+
+## 5.6 — Fat loss ki 5 fruits  ·  comment 'FRUITS'
+
+Fruits tinte weight perugutunda? Ee 5 tinandi, taggutundi.
+
+Jama kaaya. Fiber king.
+
+Papaya. 100 grams ki 43 calories.
+
+Orange. Vitamin C, juicy, low cal.
+
+Puchakaya. 30 calories, full water.
+
+Apple, tokka tho. Fiber antha tokka lo.
+
+Eppudu tinali? Night tinocha? Comment 'FRUITS'.
+
+---
+
+## 5.7 — Fat loss ki 5 kooragayalu  ·  comment 'VEGGIES'
+
+Plate full, calories takkuva. Ee 5 kooragayalu tinandi.
+
+Sorakaya. 100 grams ki 15 calories.
+
+Beerakaya. Light, digestion ki manchidi.
+
+Cabbage. Volume ekkuva, calories takkuva.
+
+Cauliflower. Rice badulu kuda vaadochu.
+
+Mushrooms. Veg lo protein, meaty taste.
+
+Tasty ga ela vandali? Comment 'VEGGIES'.
+
+---
+
+## 5.8 — 5 aakukooralu — power greens  ·  comment 'GREENS'
+
+Mana ammamma tinna ee 5 aakulu, superfoods kante better.
+
+Munagaku. Iron, calcium, protein.
+
+Karivepaku. Hair ki, digestion ki.
+
+Pudina. Bloating ki relief.
+
+Kothimeera. Vitamin K, Vitamin C.
+
+Menthikura. Sugar control ki help.
+
+Ivi ela vandali, rojuki entha? Comment 'GREENS'.
+
+---
+
+## 5.9 — 5 millets — rice badulu  ·  comment 'MILLETS'
+
+Roju white rice aa? Vaaraniki konni rojulu ee 5 try cheyyandi.
+
+Ragi. Calcium ekkuva.
+
+Jonnalu. Fiber, gluten-free.
+
+Sajjalu. Iron ekkuva.
+
+Korralu. Rice laga vandochu.
+
+Arikelu. Sugar slow ga perugutundi.
+
+Millets ela vandali, entha naanabettali? Comment 'MILLETS'.
+
+---
+
+## 5.10 — Healthy anukune 5 traps  ·  comment 'TRAPS'
+
+Healthy anukuni tintunnara? Ee 5 actually traps.
+
+Granola. Sugar plus oil chala undi.
+
+Packed brown bread. Ekkuvaga maida, colour.
+
+Protein bars. Chocolate bar laga calories.
+
+Diet namkeen. Fry chesinade.
+
+Flavoured yogurt. Sugar spoons spoons.
+
+Badulu emi tinali? Comment 'TRAPS'.
+
+---
+
+## 5.11 — Non-veg protein — 5 best  ·  comment 'NONVEG'
+
+Non-veg tintaru kada? Muscle kosam ee 5 best.
+
+Chicken breast. 100 grams ki 31 grams.
+
+Royyalu. 24 grams, takkuva fat.
+
+Fish. 22 grams plus omega-3.
+
+Eggs. Cheap, complete protein.
+
+Mutton. Iron ekkuva, kani vaaraniki okkasari.
+
+Ela vandithe fat takkuva? Comment 'NONVEG'.
+
+---
+
+## 5.12 — Height perugutunda? 5 foods  ·  comment 'HEIGHT'
+
+Height perigedi aagipoyinda? Nijam cheptanu, plus ee 5 foods.
+
+Paalu. Calcium, bones ki.
+
+Eggs. Growth ki protein.
+
+Paneer. Calcium plus protein.
+
+Ragi. Calcium king.
+
+Pappu, soya. Veg protein.
+
+Ee age varaku height perugutundi? Comment 'HEIGHT'.
+
+---
+
+## 5.13 — Office lunch box — 5 protein ideas  ·  comment 'LUNCH'
+
+Office lunch box lo protein ledu? Ee 5 try cheyyandi.
+
+Paneer bhurji, 2 roti.
+
+Egg curry, rice.
+
+Soya pulao.
+
+Chicken curry, rice.
+
+Sprouts salad plus perugu.
+
+Full week lunch plan kavala? Comment 'LUNCH'.
+
+---
+
+## 5.14 — Muscle kosam 5 Indian breakfasts  ·  comment 'BREAKFAST'
+
+Breakfast lo 20 grams protein kavali. Ee 5 lo okati.
+
+Egg dosa, 2 eggs tho.
+
+Paneer paratha plus perugu.
+
+Soya upma.
+
+Pesarattu, 3.
+
+Oats, paalu, peanut butter.
+
+Recipes kavala? Comment 'BREAKFAST'.
+
+---
+
+## 5.15 — Acidity ki 5 foods  ·  comment 'ACIDITY'
+
+Tinna ventane gunde manta? Ee 5 relief ki help chestayi.
+
+Banana. Natural antacid laga.
+
+Challani paalu. Konchem relief.
+
+Majjiga. Stomach cool.
+
+Sompu. Bhojanam tarvata.
+
+Keera. Water ekkuva, light.
+
+Acidity raakunda 5 habits unnayi. Comment 'ACIDITY'.
