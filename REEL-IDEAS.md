@@ -20,7 +20,7 @@ answer in one line. 5 per reel, about 4s each. Debates in the comments push the 
 | A1 | "Gym lo andaru nammuthunna 5 myths. Meeru enni nammaru?" | Sweat = fat burn ❌ · Women lifting = bulky ❌ · No pain no gain ❌ · Muscle turns to fat ❌ · Rest days build muscle ✅ | MYTHS |
 | A2 | "Eggs gurinchi 5 myths. Number 3 shock avutaru." | Yolk = heart attack ❌ · Brown eggs better ❌ · Raw eggs more protein ❌ · Eggs in summer = heat ❌ · 2–3 eggs daily safe for most ✅ | EGGS |
 | A3 | "Annam gurinchi 5 myths." | Rice = fat ❌ · Night rice = weight ❌ · Brown rice is magic ❌ · Portion matters ✅ · Rice + dal = good protein combo ✅ | RICE |
-| A4 | "Protein gurinchi 5 myths." | Protein powder = steroid ❌ · Damages healthy kidneys ❌ · Only gym people need it ❌ · Veg can't hit protein ❌ · Spread across meals helps ✅ | MYTHPROTEIN |
+| A4 | "Protein gurinchi 5 myths." | Protein powder = steroid ❌ · Damages healthy kidneys ❌ · Only gym people need it ❌ · Veg can't hit protein ❌ · Spread across meals helps ✅ | POWDER |
 | A5 | "Weight loss gurinchi 5 myths." | Skip meals to lose ❌ · Sweating more = more fat loss ❌ · Detox teas work ❌ · Lemon water burns fat ❌ · Calorie deficit decides ✅ | MYTHLOSS |
 | A6 | "Ammamma cheppina 5 food rules. Nijama?" | Curd at night = cold ❌ (mostly) · Milk + fish = skin disease ❌ · Ghee = fat ❌ · Soaked badam better ✅ · Eat fresh, cook at home ✅ | AMMAMMA |
 
@@ -39,7 +39,7 @@ then the winner. Use a ✅ on the winner. Comments fill up with "nenu ___ team".
 | B4 | "Black coffee vs Green tea. Fat loss ki edi?" | Caffeine, calories, energy → Both zero-cal, coffee for workouts | COFFEE |
 | B5 | "Paneer vs Tofu." | Protein, fat, price → Tofu for cutting, paneer for bulking | TOFU |
 | B6 | "Bellam vs Sugar. Nijamga better aa?" | Calories, minerals, sugar spike → Almost the same, eat less of both | JAGGERY |
-| B7 | "Walking vs Running. Fat loss ki edi?" | Calories/hr, joints, consistency → Walking wins for most people | WALK |
+| B7 | "Walking vs Running. Fat loss ki edi?" | Calories/hr, joints, consistency → Walking wins for most people | RUN |
 
 ---
 
@@ -80,11 +80,11 @@ so more of them comment.
 
 | # | The comment to look for | Your answer angle | Keyword |
 |---|-------------------------|-------------------|---------|
-| E1 | "Anna, nenu 45 kg, weight ela penchali?" | 3 steps + 1 shake recipe | GAIN (existing DM) |
+| E1 | "Anna, nenu 45 kg, weight ela penchali?" | 3 steps + 1 shake recipe | SKINNY |
 | E2 | "Gym ki vellakunda body vastunda?" | Home workout + protein, yes, slower | HOME |
 | E3 | "Supplements avasarama?" | Food first; only creatine / whey / Vit D if needed | SUPPS |
 | E4 | "Morning gym aa evening gym aa?" | The one you can do every day | TIMING |
-| E5 | "Ee age lo gym start cheyyocha?" (40+/50+) | Yes: start light, focus on form, check with a doctor | AGE |
+| E5 | "Ee age lo gym start cheyyocha?" (40+/50+) | Yes: start light, focus on form, check with a doctor | 40PLUS |
 | E6 | "Mee diet enti anna?" | Your real day, honest | MYDIET |
 
 ---
@@ -96,7 +96,7 @@ Number the series ("Day 1/7") so people follow to see the next part.
 | # | Hook | Idea | Keyword |
 |---|------|------|---------|
 | F1 | "7 days, 10,000 steps. Em maarindo chudandi." | Daily 15s update; final reel = results | STEPS |
-| F2 | "30 days no sugar challenge. Day 1." | Cravings, energy, weight updates | NOSUGAR |
+| F2 | "30 days no sugar challenge. Day 1." | Cravings, energy, weight updates | 30DAYS |
 | F3 | "Roju 5 nimishalu ee stretch cheyyandi. Back pain pothundi." | 5 desk stretches, one per pop-up | BACK |
 | F4 | "Office lo kurchune vallaki 5 habits." | Water bottle, stairs, standing calls, walks, posture | DESK |
 | F5 | "21 days lo 3 habits maarchandi." | Water, protein each meal, sleep time | 21DAYS |
@@ -108,7 +108,7 @@ Number the series ("Day 1/7") so people follow to see the next part.
 
 1. **A1 (gym myths)**: the debate in the comments gets you reach.
 2. **B1 (idli vs dosa)**: every Telugu viewer has an opinion.
-3. **E1 (reply to a weight-gain comment)**: you already have these comments, and the GAIN DM is ready.
+3. **E1 (reply to a weight-gain comment)**: you already have these comments, and its DM (SKINNY) is ready.
 4. **D2 (₹150 student day)**: students save and share it.
 5. **F1 (7-day steps)**: a series brings people back and turns viewers into followers.
 

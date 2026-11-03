@@ -34,7 +34,11 @@ food swaps, beard, belly fat drinks and more):
 **Part 5** — 15 more (winter, Diwali sweets, Vitamin D, B12, millets, height,
 lunch box, acidity and more): [TENGLISH-SCRIPTS-PART-5.md](TENGLISH-SCRIPTS-PART-5.md).
 
-**Teleprompter** — only the lines to say, for all 44 Part 3–5 reels, in
+**Part 6** — full scripts for all 35 ideas in [REEL-IDEAS.md](REEL-IDEAS.md):
+myth or fact, versus, mistakes, full day of eating, comment replies and
+challenges: [TENGLISH-SCRIPTS-PART-6.md](TENGLISH-SCRIPTS-PART-6.md).
+
+**Teleprompter** — only the lines to say, for all 79 Part 3–6 reels, in
 one file you can read off your phone while filming:
 [TELEPROMPTER-SCRIPTS.md](TELEPROMPTER-SCRIPTS.md).
 

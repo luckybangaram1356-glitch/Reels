@@ -1,8 +1,8 @@
-# Teleprompter Scripts (Tenglish) — Parts 3–5
+# Teleprompter Scripts (Tenglish) — Parts 3–6
 
-Just the words to say on camera, top to bottom, for every "5 foods for X" reel.
+Just the words to say on camera, top to bottom, for every talking-head reel.
 Read one line, pause a beat for the pop-up, read the next. ~25s each.
-Full shot list, pop-up text and DM replies: [Part 3](TENGLISH-SCRIPTS-PART-3.md) · [Part 4](TENGLISH-SCRIPTS-PART-4.md) · [Part 5](TENGLISH-SCRIPTS-PART-5.md). Copy-paste DMs: [DM-REPLIES.md](DM-REPLIES.md).
+Full shot list, pop-up text and DM replies: [Part 3](TENGLISH-SCRIPTS-PART-3.md) · [Part 4](TENGLISH-SCRIPTS-PART-4.md) · [Part 5](TENGLISH-SCRIPTS-PART-5.md) · [Part 6](TENGLISH-SCRIPTS-PART-6.md). Copy-paste DMs: [DM-REPLIES.md](DM-REPLIES.md).
 
 ---
 
@@ -795,3 +795,619 @@ Sompu. Bhojanam tarvata.
 Keera. Water ekkuva, light.
 
 Acidity raakunda 5 habits unnayi. Comment 'ACIDITY'.
+
+---
+
+## A1 — 5 gym myths  ·  comment 'MYTHS'
+
+Gym lo andaru nammuthunna 5 myths. Meeru enni nammaru?
+
+Chemata ekkuva aithe fat ekkuva karugutundi. Myth. Chemata ante water.
+
+Ammayilu weights ethithe bulky avutaru. Myth. Toned avutaru.
+
+No pain, no gain. Myth. Sharp pain ante injury.
+
+Gym aapite muscle fat ga maarutundi. Myth.
+
+Rest days lo muscle perugutundi. Fact.
+
+Enni nammaru? Comment lo number. Full explanation kosam comment 'MYTHS'.
+
+---
+
+## A2 — Eggs gurinchi 5 myths  ·  comment 'EGGS'
+
+Eggs gurinchi 5 myths. Number 3 shock avutaru.
+
+Yolk tinte heart attack. Chala mandiki myth.
+
+Brown eggs ekkuva healthy. Myth. Same nutrition.
+
+Pachi eggs ekkuva protein. Myth. Udikinche better absorb.
+
+Summer lo eggs body heat. Myth.
+
+Roju 2–3 eggs safe. Healthy vallaki fact.
+
+Roju enni eggs tinochu? Full details kosam comment 'EGGS'.
+
+---
+
+## A3 — Annam gurinchi 5 myths  ·  comment 'RICE'
+
+Annam gurinchi 5 myths. South Indians tappakunda chudandi.
+
+Annam tinte lavu avutaru. Myth. Ekkuva tinte avutaru.
+
+Raatri annam tinte weight. Myth. Total calories mukhyam.
+
+Brown rice magic. Myth. Konchem ekkuva fiber, anthe.
+
+Portion ye mukhyam. Fact.
+
+Annam plus pappu, manchi protein combo. Fact.
+
+Weight loss lo entha annam tinochu? Comment 'RICE'.
+
+---
+
+## A4 — Protein gurinchi 5 myths  ·  comment 'POWDER'
+
+Protein gurinchi intlo cheppe 5 myths.
+
+Protein powder steroid. Myth. Adi paala nunchi vachina food.
+
+Protein kidneys paadu chestundi. Healthy vallaki myth.
+
+Gym ki vellevallake protein. Myth. Andariki kavali.
+
+Veg lo protein dorakadu. Myth.
+
+Prathi meal lo protein unte better. Fact.
+
+Meeku entha protein kavali? Comment 'POWDER'.
+
+---
+
+## A5 — Weight loss gurinchi 5 myths  ·  comment 'MYTHLOSS'
+
+Weight taggatledu ante, ee 5 myths nammutunnaru emo.
+
+Meals skip chesthe fast ga taggutaru. Myth.
+
+Ekkuva chemata, ekkuva fat loss. Myth.
+
+Detox tea fat karugistundi. Myth.
+
+Lemon water fat burn chestundi. Myth.
+
+Calorie deficit ye decide chestundi. Fact.
+
+Mee deficit ela calculate cheyyali? Comment 'MYTHLOSS'.
+
+---
+
+## A6 — Ammamma cheppina 5 food rules  ·  comment 'AMMAMMA'
+
+Ammamma cheppina 5 food rules. Nijama, myth aa?
+
+Raatri perugu tinte jalubu. Chala mandiki myth.
+
+Paalu, chepa kalipi tinte skin problem. Myth.
+
+Neyyi tinte lavu. Limit lo tinte myth.
+
+Naanabettina badam better. Fact, digest easy.
+
+Intlo vanta, fresh food best. Pakka fact.
+
+Mee ammamma inka em cheptaru? Comment lo raayandi. Full truth kosam comment 'AMMAMMA'.
+
+---
+
+## B1 — Idli vs Dosa  ·  comment 'IDLI'
+
+Idli vs Dosa. Weight loss ki edi better?
+
+Round 1, calories. 2 idli 120. Oka dosa, oil batti 150 nunchi 200.
+
+Round 2, oil. Idli lo zero. Dosa lo tawa oil.
+
+Round 3, kadupu. Idli steam, light, ekkuva tinochu.
+
+Winner, idli. Kani takkuva oil tho dosa kuda okay.
+
+Idli team aa, dosa team aa? Protein tips kosam comment 'IDLI'.
+
+---
+
+## B2 — Chapati vs Rice  ·  comment 'ROTI'
+
+Chapati vs Rice. Final answer ichestanu.
+
+Round 1, calories. 2 chapati 200. Oka cup annam 200. Same.
+
+Round 2, fiber. Chapati lo konchem ekkuva.
+
+Round 3, comfort. Annam light, mana comfort food.
+
+Winner? Tie. Entha tintunnaru ade decide chestundi.
+
+Roti team aa, rice team aa? Portion guide kosam comment 'ROTI'.
+
+---
+
+## B3 — Whey vs Eggs  ·  comment 'WHEY'
+
+Whey vs Eggs. Protein ki edi cheap?
+
+Round 1, price. 25 grams protein ki, whey 60 nunchi 90. 4 eggs dadapu 30.
+
+Round 2, convenience. Whey 30 seconds lo ready.
+
+Round 3, extras. Eggs lo vitamins, healthy fats kuda.
+
+Winner: budget ki eggs, busy aithe whey. Rendu food ye.
+
+Whey teeskovala, edi konali? Comment 'WHEY'.
+
+---
+
+## B4 — Black coffee vs Green tea  ·  comment 'COFFEE'
+
+Black coffee vs Green tea. Fat loss ki edi?
+
+Round 1, calories. Rendu zero, sugar lekunda.
+
+Round 2, energy. Coffee lo 3 times ekkuva caffeine.
+
+Round 3, calm focus. Green tea light ga, smooth ga.
+
+Winner: workout mundu coffee, afternoon green tea.
+
+Roju entha taagochu, eppudu aapali? Comment 'COFFEE'.
+
+---
+
+## B5 — Paneer vs Tofu  ·  comment 'TOFU'
+
+Paneer vs Tofu. Veg protein ki edi best?
+
+Round 1, protein. 100 grams ki paneer 18, tofu 10 nunchi 15.
+
+Round 2, calories. Paneer 265, tofu 80 nunchi 150.
+
+Round 3, price, availability. Paneer prathi chota dorukutundi.
+
+Winner: cutting lo tofu, bulking lo paneer.
+
+Tofu tasty ga ela vandali? Comment 'TOFU'.
+
+---
+
+## B6 — Bellam vs Sugar  ·  comment 'JAGGERY'
+
+Bellam vs Sugar. Nijamga bellam better aa?
+
+Round 1, calories. Rendu dadapu same.
+
+Round 2, minerals. Bellam lo konchem iron. Kani chala takkuva.
+
+Round 3, blood sugar. Rendu penchutayi.
+
+Winner? Almost tie. Edi tinna, takkuva tinandi.
+
+Sugar ela taggincali? Comment 'JAGGERY'.
+
+---
+
+## B7 — Walking vs Running  ·  comment 'RUN'
+
+Walking vs Running. Fat loss ki edi?
+
+Round 1, calories. Gantaku running ekkuva karugutundi.
+
+Round 2, joints. Walking knees ki safe.
+
+Round 3, consistency. Walking roju easy ga continue.
+
+Winner: most people ki walking. Fitness peragaka running add.
+
+Walk nunchi run ki ela maaraali? Comment 'RUN'.
+
+---
+
+## C1 — Walking chestunna weight taggatleda?  ·  comment 'WALKING'
+
+Roju walking chestunna weight taggatleda? Ee 5 mistakes.
+
+Eppudu same slow pace.
+
+Phone chustu nadavadam.
+
+Walk tarvata samosa, tea.
+
+Weekends maatrame.
+
+Steps count cheyyakapovadam.
+
+Meeru enni chestunnaru? Walking fat loss plan kosam comment 'WALKING'.
+
+---
+
+## C2 — Protein shake mistakes  ·  comment 'SHAKE'
+
+Protein shake taagetappudu chala mandi chese 5 mistakes.
+
+Meals badulu shake.
+
+Ekkuva scoops ekkuva muscle anukovadam.
+
+Cheap, fake brands konadam.
+
+Food protein ignore cheyyadam.
+
+Water aa, milk aa confusion. Cutting water, bulking milk.
+
+Eppudu taagali, fake ela gurthinchali? Comment 'SHAKE'.
+
+---
+
+## C3 — Gym tarvata chese 5 mistakes  ·  comment 'POSTGYM'
+
+Gym lo hard work chesi, tarvata ee 5 mistakes tho waste chestunnaru.
+
+3 gantalu emi tinakapovadam.
+
+Cool drink taagadam.
+
+Stretch skip cheyyadam.
+
+Late night varaku phone.
+
+Gym chesanu kada ani junk.
+
+Perfect post-gym routine kavala? Comment 'POSTGYM'.
+
+---
+
+## C4 — Diet start chesevallu chese 5 mistakes  ·  comment 'DIETSTART'
+
+Diet start chesi 1 week lo quit chestunnara? Ee 5 mistakes valla.
+
+Carbs motham cut.
+
+Chala takkuva tinadam.
+
+Vere vallu diet copy cheyyadam.
+
+Protein marchipovadam.
+
+Okka cheat meal tho quit.
+
+Week 1 simple plan kavala? Comment 'DIETSTART'.
+
+---
+
+## C5 — Nidra paadu chese 5 night habits  ·  comment 'NIGHTHABITS'
+
+8 gantalu padukunna alasata? Ee 5 night habits valla.
+
+Bed lo phone.
+
+Late ga, heavy dinner.
+
+Saayantram coffee.
+
+Roju veru veru time ki nidra.
+
+Light on chesi padukovadam.
+
+Perfect night routine kavala? Comment 'NIGHTHABITS'.
+
+---
+
+## D1 — 1500 calories full day  ·  comment '1500'
+
+1500 calories lo full day. Kadupu ninde ga.
+
+Breakfast: 2 eggs bhurji, 2 roti.
+
+Snack: jama kaaya, perugu.
+
+Lunch: konchem annam, pappu, 150 grams chicken.
+
+Evening: black coffee, roasted chana.
+
+Dinner: soya curry, 1 roti, kooralu.
+
+Total 1500, 100 grams protein. Veg version kavala? Comment '1500'.
+
+---
+
+## D2 — ₹150 student full day  ·  comment 'STUDENT'
+
+Student budget, 150 rupees lo full day. 100 grams protein.
+
+Breakfast: 3 boiled eggs, 2 bananas.
+
+Lunch: annam, pappu, soya curry.
+
+Snack: roasted palli, oka chai.
+
+Dinner: 3 roti, egg bhurji.
+
+Night: oka glass paalu.
+
+₹131 lo 110 grams protein. Shopping list kavala? Comment 'STUDENT'.
+
+---
+
+## D3 — South Indian diet tho 120g protein  ·  comment 'SOUTH'
+
+Mana South Indian food tho 120 grams protein. Ila.
+
+Breakfast: 4 idli, sambar, 3 boiled eggs.
+
+Lunch: annam, pappu, 200 grams chicken curry.
+
+Snack: senagala guggillu, majjiga.
+
+Dinner: 3 pesarattu, allam chutney.
+
+Night: oka glass paalu.
+
+Total 120 plus. Veg version kavala? Comment 'SOUTH'.
+
+---
+
+## D4 — Night shift diet  ·  comment 'SHIFT'
+
+Night shift chestunnara? Ela tinali, eppudu tinali, cheptanu.
+
+Shift mundu, 7 PM ki main meal.
+
+12 AM ki light meal, upma, perugu.
+
+3 AM ki fruit, nuts. Sweets kaadu.
+
+Shift tarvata light breakfast, tarvata nidra.
+
+Nidra lechaka, lunch laga full meal.
+
+Coffee eppudu aapali, nidra ela? Comment 'SHIFT'.
+
+---
+
+## D5 — Fasting lo muscle ela kaapadali  ·  comment 'FASTING'
+
+Ramzan fasting lo muscle poakunda ela? Simple plan.
+
+Suhoor: slow carbs, protein, neellu.
+
+Iftar: kharjuram, neellu, fruit.
+
+Tarvata main meal: protein ekkuva.
+
+Workout: main meal tarvata 1–2 gantalu.
+
+Iftar nunchi suhoor varaku 3 litres neellu.
+
+Full Ramzan plan kavala? Comment 'FASTING'.
+
+---
+
+## E1 — 45 kg, weight ela penchali?  ·  comment 'SKINNY'
+
+45 kilos aa? Step by step cheptanu.
+
+Step 1: roju 500 calories ekkuva tinandi.
+
+Step 2: 3 meals, 2 snacks. Skip cheyyakandi.
+
+Step 3: protein, 45 kilos ante 70 grams.
+
+Step 4: week ki 3 days weights.
+
+Easy calories: banana shake, 700 calories.
+
+Full 45 to 55 kg plan kavala? Comment 'SKINNY'.
+
+---
+
+## E2 — Gym lekunda body vastunda?  ·  comment 'HOME'
+
+Gym lekunda body vastunda? Vastundi. Ela ante.
+
+Push-ups, squats, lunges, plank. Body weight chalu.
+
+Prathi week reps penchandi.
+
+Protein tinandi. Gym unna lekunna same rule.
+
+Water bottles, books bag, weights laga vaadandi.
+
+Slow ga vastundi, kani pakka vastundi.
+
+Home workout plan kavala? Comment 'HOME'.
+
+---
+
+## E3 — Supplements avasarama?  ·  comment 'SUPPS'
+
+Supplements avasarama? Nijam cheptanu, no sponsorship.
+
+Mundu food. Food lekunda supplements waste.
+
+Whey: food tho protein reach avvakapothe.
+
+Creatine: strength ki, most researched.
+
+Vitamin D: test chesi, takkuva unte.
+
+Fat burners, testosterone boosters: waste of money.
+
+Edi, entha, eppudu? Comment 'SUPPS'.
+
+---
+
+## E4 — Morning gym aa, evening gym aa?  ·  comment 'TIMING'
+
+Morning gym aa, evening gym aa? Answer chala simple.
+
+Morning: fresh start, routine easy.
+
+Evening: body warm, strength konchem ekkuva.
+
+Nijam: rendu work avutayi.
+
+Meeru roju continue cheyyagalige time ye best.
+
+Late night aithe, nidra ki 2 gantala mundu finish.
+
+Mee timing ki em tinali? Comment 'TIMING'.
+
+---
+
+## E5 — Ee age lo gym start cheyyocha?  ·  comment '40PLUS'
+
+40, 50, 60. Ee age lo gym start cheyyocha? Avunu.
+
+Muscle ye age lo aina build avutundi.
+
+Age tho muscle taggutundi. Weights aapadaniki help.
+
+Light weights, correct form tho start.
+
+Mundu doctor checkup. BP, sugar, heart.
+
+Prathi meal lo protein, konchem ekkuva kavali.
+
+40 plus beginner plan kavala? Comment '40PLUS'. Amma, nanna ki share cheyyandi.
+
+---
+
+## E6 — Mee diet enti anna?  ·  comment 'MYDIET'
+
+Na diet enti? Honest ga, nenu roju tinedi idi.
+
+Morning: 4 eggs, oats.
+
+Lunch: annam, chicken, perugu.
+
+Pre-workout: banana, black coffee.
+
+Post-workout: whey or paneer.
+
+Dinner: roti, paneer or fish curry.
+
+Mee diet enti? Comments lo cheppandi. Na full plan kosam comment 'MYDIET'.
+
+---
+
+## F1 — 7 days, 10,000 steps challenge  ·  comment 'STEPS'
+
+7 days, roju 10,000 steps. Em maarindo chudandi.
+
+Roju 10,000 steps, 7 days.
+
+Diet same. Steps maatrame maarustunna.
+
+Weight, waist, energy, nidra track chesta.
+
+Roju ee time ki update istanu.
+
+Meeru kuda naatho join avvandi.
+
+Naatho cheyyali ante comment 'STEPS'. Day 7 lo results.
+
+---
+
+## F2 — 30 days no sugar challenge  ·  comment '30DAYS'
+
+30 days, sugar zero. Day 1 ivale.
+
+30 days, added sugar zero.
+
+Chai lo sugar ledu, sweets ledu, cool drinks ledu.
+
+Fruits okay. Natural sugar.
+
+Weight, cravings, energy track chesta.
+
+Prathi week oka update.
+
+Naatho join avvandi. Rules list kosam comment '30DAYS'.
+
+---
+
+## F3 — Back pain ki 5 stretches  ·  comment 'BACK'
+
+Roju 5 nimishalu ee stretches cheyyandi. Back pain taggutundi.
+
+Cat-cow. 10 saarlu.
+
+Child's pose. 30 seconds.
+
+Seated twist. Prathi side.
+
+Hip flexor stretch. Kurchune vallaki must.
+
+Chin tucks. Neck ki.
+
+Full sequence step by step kavala? Comment 'BACK'.
+
+---
+
+## F4 — Office lo kurchune vallaki 5 habits  ·  comment 'DESK'
+
+Roju 9 gantalu kurchuntara? Ee 5 habits start cheyyandi.
+
+Desk meeda 1 litre bottle. Rendu saarlu finish.
+
+Lift kaadu, stairs.
+
+Phone calls nilabadi, nadustu.
+
+Prathi gantaku 2 minutes walk.
+
+Screen eye level lo, back straight.
+
+Office fitness plan kosam comment 'DESK'. Office friend ni tag cheyyandi.
+
+---
+
+## F5 — 21 days lo 3 habits  ·  comment '21DAYS'
+
+21 days lo ee 3 habits start cheyyandi. Body maarutundi.
+
+Habit 1: roju 3 litres neellu.
+
+Habit 2: prathi meal lo protein.
+
+Habit 3: roju same time ki nidra.
+
+Week ki okka habit add cheyyandi.
+
+21 days lo start. Tarvata automatic avutayi.
+
+Daily checklist kavala? Comment '21DAYS'.
+
+---
+
+## F6 — Phone tho free fitness — 3 tricks  ·  comment 'APPS'
+
+Mee phone ye mee free coach. 3 tricks.
+
+Trick 1: phone lo step counter already undi. Open cheyyandi.
+
+Trick 2: calorie tracking app. Free version chalu.
+
+Trick 3: water, nidra ki alarms.
+
+Bonus: prathi week oka progress photo.
+
+Phone ni coach ga vaadandi, distraction ga kaadu.
+
+Ee apps, settings list kosam comment 'APPS'.
