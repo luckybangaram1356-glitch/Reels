@@ -1,4 +1,4 @@
-# New Reel Ideas — 6 formats, 36 ideas
+# New Reel Ideas — 6 formats, 35 ideas
 
 Same setup as the "5 foods" reels (sit in the gym, talk to camera, pop-ups),
 so you can film all of these without new gear. Each idea has a ready Tenglish
