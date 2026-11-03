@@ -41,6 +41,10 @@ one file you can read off your phone while filming:
 **DM replies** — ready-to-paste DM message for every comment keyword (plus
 'FOOD' for the 5-seeds hair reel): [DM-REPLIES.md](DM-REPLIES.md).
 
+**New ideas** — 36 reel ideas in 6 new formats (myth or fact, versus, mistakes,
+full day of eating, comment replies, challenges) with Tenglish hooks:
+[REEL-IDEAS.md](REEL-IDEAS.md).
+
 ## Script format
 
 Every script follows the same structure:
