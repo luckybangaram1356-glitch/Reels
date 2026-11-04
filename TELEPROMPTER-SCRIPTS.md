@@ -1,8 +1,8 @@
-# Teleprompter Scripts (Tenglish) — Parts 3–6
+# Teleprompter Scripts (Tenglish) — Parts 3–7
 
 Just the words to say on camera, top to bottom, for every talking-head reel.
 Read one line, pause a beat for the pop-up, read the next. ~25s each.
-Full shot list, pop-up text and DM replies: [Part 3](TENGLISH-SCRIPTS-PART-3.md) · [Part 4](TENGLISH-SCRIPTS-PART-4.md) · [Part 5](TENGLISH-SCRIPTS-PART-5.md) · [Part 6](TENGLISH-SCRIPTS-PART-6.md). Copy-paste DMs: [DM-REPLIES.md](DM-REPLIES.md).
+Full shot list, pop-up text and DM replies: [Part 3](TENGLISH-SCRIPTS-PART-3.md) · [Part 4](TENGLISH-SCRIPTS-PART-4.md) · [Part 5](TENGLISH-SCRIPTS-PART-5.md) · [Part 6](TENGLISH-SCRIPTS-PART-6.md) · [Part 7](TENGLISH-SCRIPTS-PART-7.md). Copy-paste DMs: [DM-REPLIES.md](DM-REPLIES.md).
 
 ---
 
@@ -1411,3 +1411,21 @@ Bonus: prathi week oka progress photo.
 Phone ni coach ga vaadandi, distraction ga kaadu.
 
 Ee apps, settings list kosam comment 'APPS'.
+
+---
+
+## 7.1 — Roju 120g protein easy ga  ·  comment 'FOOD'
+
+Roju 120 grams protein easy ga ela? Ila.
+
+Podduna gym ki mundu: 50 grams oats, 50 grams peanut butter, paalu tho shake. Manchi energy.
+
+Workout ayyaka: oka scoop whey, leda 5 eggs.
+
+Lunch: 100 grams meal maker curry.
+
+Dinner: 100 grams paneer leda tofu.
+
+Annam, roti tho kalipi, easy ga 120 grams complete.
+
+Ilanti full food list ready chesa. Comment lo 'FOOD' ani pettandi, DM lo vastundi.

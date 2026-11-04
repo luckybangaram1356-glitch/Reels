@@ -38,12 +38,14 @@ lunch box, acidity and more): [TENGLISH-SCRIPTS-PART-5.md](TENGLISH-SCRIPTS-PART
 myth or fact, versus, mistakes, full day of eating, comment replies and
 challenges: [TENGLISH-SCRIPTS-PART-6.md](TENGLISH-SCRIPTS-PART-6.md).
 
-**Teleprompter** — only the lines to say, for all 79 Part 3–6 reels, in
+**Part 7** — your own drafts, polished into the reel format (7.1: "Roju 120g
+protein easy ga", keyword FOOD): [TENGLISH-SCRIPTS-PART-7.md](TENGLISH-SCRIPTS-PART-7.md).
+
+**Teleprompter** — only the lines to say, for all 80 Part 3–7 reels, in
 one file you can read off your phone while filming:
 [TELEPROMPTER-SCRIPTS.md](TELEPROMPTER-SCRIPTS.md).
 
-**DM replies** — ready-to-paste DM message for every comment keyword (plus
-'FOOD' for the 5-seeds hair reel): [DM-REPLIES.md](DM-REPLIES.md).
+**DM replies** — ready-to-paste DM message for every comment keyword: [DM-REPLIES.md](DM-REPLIES.md).
 
 **New ideas** — 35 reel ideas in 6 new formats (myth or fact, versus, mistakes,
 full day of eating, comment replies, challenges) with Tenglish hooks:

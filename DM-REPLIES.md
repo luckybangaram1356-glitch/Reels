@@ -3,23 +3,6 @@
 Find the keyword the person commented, copy the whole block, paste it in their DM.
 Works for manual replies or as the auto-DM message in ManyChat.
 
-## FOOD — 5 seeds for hair (the reference reel)
-
-```
-Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
-
-🌱 Hair kosam 5 seeds plan
-Pumpkin seeds: 1 tbsp daily, evening snack (zinc, less hair fall)
-Flax seeds: 1 tbsp ground, in curd or roti dough (omega-3, hair growth)
-Sunflower seeds: 1 tbsp, roasted, as a snack (vitamin E, shine)
-Sesame seeds: 1 tsp, in chutney or laddu (root strength)
-Chia seeds: 1 tsp soaked 15 min in water or milk, morning (thickness)
-Total 2–3 tbsp of seeds a day is enough. Give it 2–3 months.
-Losing a lot of hair suddenly? Check thyroid, iron and vitamin D with a doctor.
-
-Save cheskondi 📌 Inka tips kosam follow avvandi 💪
-```
-
 ## GLOW — Skin glow ki 5 foods
 
 ```
@@ -1245,6 +1228,39 @@ Alarms: water reminders at 9, 11, 1, 3, 5 · bedtime alarm 30 min before sleep
 Progress: a photo every Sunday morning, same spot and light, in a hidden album
 Turn on screen-time limits for social apps after 10 pm
 No brand sponsorship. Use whichever app you like.
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+## FOOD — Roju 120g protein easy ga
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee plan 👇
+
+💪 120g protein day
+Pre-gym (60–90 min before): shake with 50g oats + 50g peanut butter + 300ml milk (~28g protein, ~690 kcal)
+Post-workout: 1 scoop whey (~24g) OR 5 eggs (~30g)
+Lunch: 100g meal maker (dry weight) curry + rice / roti (~52g + ~5g)
+Dinner: 100g paneer (~18g) OR 100g firm tofu (~12g) + 2 roti (~6g)
+Total: ~125–135g protein
+
+📋 Protein food list (approx)
+Meal maker / soya chunks, 50g dry → 26g
+Chicken breast, 100g cooked → 31g
+Fish, 100g → 22g
+Paneer, 100g → 18g
+Tofu (firm), 100g → 12g
+1 egg → 6g · 1 egg white → 3.5g
+Whey, 1 scoop → 24g
+Pesalu / moong dal, 50g dry → 12g
+Senagalu / chana, 50g dry → 10g
+Palli, 30g → 8g
+Curd, 200g → 7g · Milk, 250ml → 8g
+
+Tips:
+- 100g of dry meal maker swells to ~300g. If that's too heavy, split it 50g lunch + 50g dinner. Soak it 15 min, squeeze out the water, then cook.
+- Cutting? Use 20g peanut butter instead of 50g (saves ~180 kcal) and make the shake with water or toned milk.
+- Drink 3 L of water on high-protein days.
 
 Save cheskondi 📌 Inka tips kosam follow avvandi 💪
 ```
