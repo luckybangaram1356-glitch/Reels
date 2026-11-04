@@ -9,7 +9,77 @@ Suggested keywords (set to exact match in ManyChat): **MASS** for weight gain,
 
 ---
 
-## MASS — Weight gain food list
+## All-in-one versions (1 message each)
+
+Shorter lists that fit in a single DM (both are under 1000 characters). Use these if
+you want to send one message. The detailed 3-message versions are below.
+
+### MASS — Weight gain (one message)
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee WEIGHT GAIN food list 👇
+
+🍳 BREAKFAST (pick 1)
+• 4 idli + sambar + 2 boiled eggs + 1 glass milk
+• 3 egg dosa + 1 banana
+• 2 paneer paratha + curd
+• Shake: 300ml milk + 2 bananas + 50g oats + 1 spoon peanut butter
+
+🥜 SNACK: handful of nuts + 2 kharjuram / PB toast + banana
+
+🍛 LUNCH (pick 1)
+• 2 cups rice + dal + 150g chicken or 100g paneer curry + curd
+• 4 roti + rajma / chana curry + curd
+• 2 cups rice + 60g soya chunks curry + curd
+
+☕ EVENING: 2 PB sandwiches / 1 glass milk + 3 boiled eggs
+
+🍽️ DINNER (pick 1)
+• 4 roti + egg curry (3 eggs) + veg
+• Ghee rice + 100g paneer curry
+• Chicken pulao + raita
+
+🌙 BEFORE BED: 1 glass milk + 2 kharjuram
+
+✅ Eat 300–500 kcal more than normal · Protein 1.6g per kg · Lift weights 3–4 days a week · Aim for +1–2 kg a month
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+### SLIM — Weight loss (one message)
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee WEIGHT LOSS food list 👇
+
+🍳 BREAKFAST (pick 1)
+• 2 pesarattu + allam chutney
+• 3 idli + sambar + 1 boiled egg
+• 3-egg veggie omelette + 1 roti
+• 40g oats in toned milk + 1 fruit
+
+🍐 SNACK: 1 guava / apple / majjiga / 30g roasted chana
+
+🍛 LUNCH (pick 1)
+• 1 cup rice + dal + veg + 150g chicken / fish curry
+• 2 roti + dal + 100g paneer / tofu bhurji + salad
+• 1 cup rice + 40g soya chunks curry + veg + salad
+Plate: ½ veggies · ¼ protein · ¼ rice / roti
+
+☕ EVENING: black coffee / green tea (no sugar) + 1 fruit or makhana
+
+🍽️ DINNER (pick 1)
+• 2 roti + veg curry + 2-egg bhurji
+• 150g grilled chicken / fish + salad + ½ cup rice
+• 2 roti + 100g paneer / tofu curry + salad
+
+✅ Eat 300–500 kcal less than normal · Protein every meal · Oil 2–3 tsp a day · No sugar, no cool drinks · 8k steps + 3 L water · Aim for −0.5 to −1 kg a week
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+---
+
+## MASS — Weight gain food list (detailed, 3 messages)
 
 **Message 1/3**
 
@@ -69,7 +139,7 @@ Save cheskondi 📌 Inka tips kosam follow avvandi 💪
 
 ---
 
-## SLIM — Weight loss food list
+## SLIM — Weight loss food list (detailed, 3 messages)
 
 **Message 1/3**
 
