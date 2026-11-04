@@ -47,6 +47,9 @@ one file you can read off your phone while filming:
 
 **DM replies** — ready-to-paste DM message for every comment keyword: [DM-REPLIES.md](DM-REPLIES.md).
 
+**DM food lists** — weight gain and weight loss food lists (breakfast, lunch,
+dinner, snacks), each split into 3 DM-sized messages: [DM-FOOD-LISTS.md](DM-FOOD-LISTS.md).
+
 **New ideas** — 35 reel ideas in 6 new formats (myth or fact, versus, mistakes,
 full day of eating, comment replies, challenges) with Tenglish hooks:
 [REEL-IDEAS.md](REEL-IDEAS.md).

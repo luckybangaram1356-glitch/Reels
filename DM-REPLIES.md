@@ -1257,10 +1257,7 @@ Senagalu / chana, 50g dry → 10g
 Palli, 30g → 8g
 Curd, 200g → 7g · Milk, 250ml → 8g
 
-Tips:
-- 100g of dry meal maker swells to ~300g. If that's too heavy, split it 50g lunch + 50g dinner. Soak it 15 min, squeeze out the water, then cook.
-- Cutting? Use 20g peanut butter instead of 50g (saves ~180 kcal) and make the shake with water or toned milk.
-- Drink 3 L of water on high-protein days.
+Tips: too heavy? Split meal maker 50g lunch + 50g dinner. Cutting? Use 20g peanut butter and water in the shake. Drink 3 L water.
 
 Save cheskondi 📌 Inka tips kosam follow avvandi 💪
 ```
