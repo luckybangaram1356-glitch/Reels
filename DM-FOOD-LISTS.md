@@ -9,6 +9,35 @@ Suggested keywords (set to exact match in ManyChat): **MASS** for weight gain,
 
 ---
 
+## Gain + loss together (1 message)
+
+Both lists in one DM (897 characters, under Instagram's 1000 limit). Good as
+the reply for a general FOOD-type keyword, when you don't know the person's goal.
+
+```
+Hi! Comment chesinanduku thanks 🙌 Ide mee food list 👇
+
+💪 WEIGHT GAIN
+🍳 Breakfast: 4 idli + sambar + 2 eggs + milk / 2 paneer paratha + curd / shake (milk + 2 bananas + oats + PB)
+🍛 Lunch: 2 cups rice + dal + chicken / paneer / soya curry + curd
+🍽️ Dinner: 4 roti + egg or paneer curry / chicken pulao + raita
+🥜 Snacks: nuts + kharjuram, PB toast, milk + 3 boiled eggs
+✅ Eat 300–500 kcal more than normal · Lift 3–4 days a week
+
+🔥 WEIGHT LOSS
+🍳 Breakfast: 2 pesarattu / 3 idli + sambar + 1 egg / veggie omelette + 1 roti
+🍛 Lunch: 1 cup rice + dal + veg + chicken / fish / paneer / soya curry
+🍽️ Dinner: 2 roti + veg + egg bhurji or paneer / tofu, or grilled chicken + salad
+🍐 Snacks: fruit, majjiga, roasted chana, makhana
+✅ Eat 300–500 kcal less than normal · 8k steps · 3 L water · No sugar
+
+Both: protein in every meal (1.6g per kg body weight)
+
+Save cheskondi 📌 Inka tips kosam follow avvandi 💪
+```
+
+---
+
 ## All-in-one versions (1 message each)
 
 Shorter lists that fit in a single DM (both are under 1000 characters). Use these if
