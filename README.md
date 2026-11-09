@@ -54,6 +54,11 @@ dinner, snacks), each split into 3 DM-sized messages: [DM-FOOD-LISTS.md](DM-FOOD
 full day of eating, comment replies, challenges) with Tenglish hooks:
 [REEL-IDEAS.md](REEL-IDEAS.md).
 
+**Gym reel ideas** — 44 Telugu (Tenglish) gym topics in 7 formats: form check
+(wrong vs right), "5 best exercises for X", Gym 101 beginner series, gym
+comedy, training basics, gym versus/myths and transformation series, each
+with a hook and a comment keyword: [GYM-REEL-IDEAS.md](GYM-REEL-IDEAS.md).
+
 ## Script format
 
 Every script follows the same structure:
